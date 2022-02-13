@@ -125,15 +125,15 @@ $(async function () {
         const candidate = $("<div>")
 
         $("#results").append(candidate)
-        console.log($("#results"))
-        console.log(candidate)
-        if (perCandidate[c].total >= 500){
+        if (perCandidate[c].total >= 500) {
             candidate.addClass("ok")
         } else {
             candidate.addClass("nok")
         }
-        candidate.append($("<h1>").text(c))
-        const child = $("<div>").attr("id", c)
+        candidate.append($("<header>").append($("<h1>").text(c)).append($("<p>").text(perCandidate[c].total +
+            " parrainages")))
+        const child = $("<article>").attr("id", c)
+
         candidate.append(child)
         child.attr("style", "width: 500px; height: 400px")
         child.vectorMap({
@@ -145,9 +145,6 @@ $(async function () {
                     normalizeFunction: 'polynomial',
                     attribute: "fill"
                 }]
-            },
-            onRegionTipShow: function(e, el, code){
-                el.html(code);
             }
         })
     })
@@ -167,7 +164,7 @@ $(async function () {
                             attribute: "fill"
                         }]
                     },
-                    onRegionTipShow: function(e, el, code){
+                    onRegionTipShow: function (e, el, code) {
                         el.html(code);
                     }
                 })

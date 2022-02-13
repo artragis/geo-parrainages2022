@@ -5,9 +5,9 @@ section{
 section .control{
     flex-grow: 3;
 }
-section div{
+section article{
     width: 30%;
 }
-section div.invisible{
+section article.invisible{
     display: none;
 }
