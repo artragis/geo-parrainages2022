@@ -108,7 +108,6 @@ const reverseMap = {
 $(async function () {
     const r = await fetch("data.json")
     const result = await r.json()
-    console.log(result)
     const perCandidate = {}
     result.forEach(n => {
         if (!(perCandidate[n.Candidat])) {
@@ -123,7 +122,6 @@ $(async function () {
 
     })
     Object.keys(perCandidate).forEach(c => {
-        console.log(c)
         const candidate = $("<div>")
 
         $("#results").append(candidate)
@@ -137,7 +135,6 @@ $(async function () {
         candidate.append($("<h1>").text(c))
         const child = $("<div>").attr("id", c)
         candidate.append(child)
-        console.log(perCandidate[c].data)
         child.attr("style", "width: 500px; height: 400px")
         child.vectorMap({
             map: 'fr_merc',
