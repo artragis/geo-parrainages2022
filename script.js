@@ -143,7 +143,13 @@ $(async function () {
                     values: perCandidate[c].data,
                     scale: ['#FFFFFF', '#0071A4'],
                     normalizeFunction: 'polynomial',
-                    attribute: "fill"
+
+                    legend: {
+                        horizontal: true
+                    },
+                    onRegionTipShow: function (e, el, code) {
+                        el.html(code);
+                    }
                 }]
             }
         })
@@ -161,12 +167,15 @@ $(async function () {
                             values: perCandidate[n.attr("id")].data,
                             scale: ['#FFFFFF', '#0071A4'],
                             normalizeFunction: 'polynomial',
-                            attribute: "fill"
+                            legend: {
+                                horizontal: true
+                            },
+                            onRegionTipShow: function (e, el, code) {
+                                el.html(code);
+                            }
                         }]
                     },
-                    onRegionTipShow: function (e, el, code) {
-                        el.html(code);
-                    }
+
                 })
             })
         }

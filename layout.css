@@ -1,12 +1,13 @@
 section{
     display: flex;
     flex-wrap: wrap;
+
 }
 section .control{
     flex-grow: 3;
 }
 section div{
-    width: 30%;
+
 }
 section div.invisible{
     display: none;
