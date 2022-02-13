@@ -6,7 +6,7 @@ section .control{
     flex-grow: 3;
 }
 section div{
-    width: 33%;
+    width: 30%;
 }
 section div.invisible{
     display: none;
