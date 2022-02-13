@@ -141,7 +141,7 @@ $(async function () {
             series: {
                 regions: [{
                     values: perCandidate[c].data,
-                    scale: ['#C8EEFF', '#0071A4'],
+                    scale: ['#FFFFFF', '#0071A4'],
                     normalizeFunction: 'polynomial',
                     attribute: "fill"
                 }]
@@ -159,7 +159,7 @@ $(async function () {
                     series: {
                         regions: [{
                             values: perCandidate[n.attr("id")].data,
-                            scale: ['#C8EEFF', '#0071A4'],
+                            scale: ['#FFFFFF', '#0071A4'],
                             normalizeFunction: 'polynomial',
                             attribute: "fill"
                         }]
