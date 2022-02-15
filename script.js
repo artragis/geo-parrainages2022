@@ -126,7 +126,7 @@ const alignment = {
 
 }
 $(async function () {
-    const r = await fetch("data.json")
+    const r = await fetch("data2.json")
     const result = await r.json()
     const perCandidate = {}
     result.forEach(n => {
