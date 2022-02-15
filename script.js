@@ -104,6 +104,7 @@ const reverseMap = {
     "Français de l'étranger": "ET",
     "Saint-Martin": "DOM-TOM",
     "Polynésie française": "DOM-TOM",
+    "Nouvelle-Calédonie": "DOM-TOM"
 }
 const alignment = {
     "ARTHAUD Nathalie": "rgba(255, 0, 0, 0.5)",
@@ -188,6 +189,7 @@ $(async function () {
         } else {
             $(".nok").removeClass("invisible")
             $(".nok").each(n => {
+                n.addClass("map")
                 n.vectorMap({
                     map: 'fr_merc',
                     series: {
