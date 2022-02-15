@@ -100,10 +100,30 @@ const reverseMap = {
     "Hérault": "FR-34",
     "Indre-et-Loire": "FR-37",
     "Indre": "FR-36",
-    "Parlement européen": "FR-01",
-    "Français de l'étranger": "FR-01",
-    "Saint-Martin": "FR-01",
-    "Polynésie française": "FR-PF",
+    "Parlement européen": "EU",
+    "Français de l'étranger": "ET",
+    "Saint-Martin": "DOM-TOM",
+    "Polynésie française": "DOM-TOM",
+}
+const alignment = {
+    "ARTHAUD Nathalie": "rgba(255, 0, 0, 0.5)",
+    "HIDALGO Anne": "rgba(230, 33, 84, 0.8)",
+    "TAUBIRA Christiane": "rgb(230, 33, 84)",
+    "MÉLENCHON Jean-Luc": "rgba(255, 0, 0, 0.5)",
+    "ROUSSEL Fabien": "rgba(255, 0, 0, 0.5)",
+    "POUTOU Philippe": "rgba(255, 0, 0, 0.5)",
+    "JADOT Yannick": "rgba(0, 255, 0, 0.5)",
+    "MACRON Emmanuel": "#2abaff",
+    "MIGUET Nicolas": "rgba(0, 0, 200, 0.5)",
+    "ZEMMOUR Éric": "rgba(0, 0, 200, 0.5)",
+    "BARNIER Michel": "rgba(0, 0, 200, 0.5)",
+    "PÉCRESSE Valérie": "rgba(0, 0, 200, 0.5)",
+    "LE PEN Marine": "rgba(0, 0, 200, 0.5)",
+    "LASSALLE Jean": "rgba(0, 0, 200, 0.5)",
+    "DUPONT-AIGNAN Nicolas": "rgba(0, 0, 200, 0.5)",
+    "ASSELINEAU François": "rgba(0, 0, 200, 0.5)",
+
+
 }
 $(async function () {
     const r = await fetch("data.json")
@@ -122,7 +142,7 @@ $(async function () {
 
     })
     Object.keys(perCandidate).forEach(c => {
-        const candidate = $("<div>")
+        const candidate = $("<div>").addClass("result")
 
         $("#results").append(candidate)
         if (perCandidate[c].total >= 500) {
@@ -130,12 +150,20 @@ $(async function () {
         } else {
             candidate.addClass("nok")
         }
-        candidate.append($("<header>").append($("<h1>").text(c)).append($("<p>").text(perCandidate[c].total +
-            " parrainages")))
+        const header = $("<header>").append($("<h1>").text(c)).append($("<p>").text(perCandidate[c].total +
+            " parrainages"));
+        if (alignment[c]) {
+            header.attr("style", "background-color:" + alignment[c])
+        }
+        candidate.append(header)
+        let $ul = $("<ul>");
+        header.append($ul)
+        $ul.append($("<li>").text("Français de l'étranger: " + perCandidate[c].data["ET"]))
+        $ul.append($("<li>").text("Parlement Européen: " + perCandidate[c].data["EU"]))
+        $ul.append($("<li>").text("Autres DOM: " + perCandidate[c].data["DOM-TOM"]))
         const child = $("<article>").attr("id", c)
-
+        child.addClass("map")
         candidate.append(child)
-        child.attr("style", "width: 500px; height: 400px")
         child.vectorMap({
             map: 'fr_merc',
             series: {

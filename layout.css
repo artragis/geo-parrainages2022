@@ -4,11 +4,24 @@ section{
 
 }
 section .control{
-    flex-grow: 3;
+    flex: 3 100%;
 }
 section div{
 
 }
 section div.invisible{
     display: none;
+}
+.result{
+    width: 30%;
+    margin-right: 10px;
+}
+.result .map{
+    height: 400px;
+}
+header {
+    border-radius: 10px 10px 0px 0px;
+}
+header h1 {
+    text-align: center;
 }
