@@ -107,29 +107,30 @@ const reverseMap = {
     "Nouvelle-Calédonie": "DOM-TOM"
 }
 const alignment = {
-    "ARTHAUD Nathalie": "rgba(255, 0, 0, 0.5)",
+    "ARTHAUD Nathalie": "rgba(255, 0, 0)",
     "HIDALGO Anne": "rgba(230, 33, 84, 0.8)",
     "TAUBIRA Christiane": "rgb(230, 33, 84)",
-    "MÉLENCHON Jean-Luc": "rgba(255, 0, 0, 0.5)",
-    "ROUSSEL Fabien": "rgba(255, 0, 0, 0.5)",
-    "POUTOU Philippe": "rgba(255, 0, 0, 0.5)",
-    "JADOT Yannick": "rgba(0, 255, 0, 0.5)",
+    "MÉLENCHON Jean-Luc": "rgba(255, 0, 0)",
+    "ROUSSEL Fabien": "rgba(255, 0, 0)",
+    "POUTOU Philippe": "rgba(255, 0, 0)",
+    "JADOT Yannick": "rgb(0, 192, 0)",
     "MACRON Emmanuel": "#2abaff",
-    "MIGUET Nicolas": "rgba(0, 0, 200, 0.5)",
-    "ZEMMOUR Éric": "rgba(0, 0, 200, 0.5)",
-    "BARNIER Michel": "rgba(0, 0, 200, 0.5)",
-    "PÉCRESSE Valérie": "rgba(0, 0, 200, 0.5)",
-    "LE PEN Marine": "rgba(0, 0, 200, 0.5)",
-    "LASSALLE Jean": "rgba(0, 0, 200, 0.5)",
-    "DUPONT-AIGNAN Nicolas": "rgba(0, 0, 200, 0.5)",
-    "ASSELINEAU François": "rgba(0, 0, 200, 0.5)",
-
-
+    "MIGUET Nicolas": "rgba(0, 0, 200)",
+    "ZEMMOUR Éric": "rgba(0, 0, 200)",
+    "BARNIER Michel": "rgba(0, 0, 200)",
+    "PÉCRESSE Valérie": "rgba(0, 0, 200)",
+    "LE PEN Marine": "rgba(0, 0, 200)",
+    "LASSALLE Jean": "rgba(0, 0, 200)",
+    "DUPONT-AIGNAN Nicolas": "rgba(0, 0, 200)",
+    "ASSELINEAU François": "rgba(0, 0, 200)",
 }
+
 $(async function () {
     const r = await fetch("data2.json")
     const result = await r.json()
     const perCandidate = {}
+    const $results = $("#results")
+
     result.forEach(n => {
         if (!(perCandidate[n.Candidat])) {
             perCandidate[n.Candidat] = {data: {}, total: 0}
@@ -140,33 +141,32 @@ $(async function () {
         }
         perCandidate[n.Candidat].total++;
         perCandidate[n.Candidat].data[reverseMap[n.Departement]]++
-
     })
+
+    $results.text('') // empties the loading message
+
     Object.keys(perCandidate).forEach(c => {
         const candidate = $("<div>").addClass("result")
 
-        $("#results").append(candidate)
+        $results.append(candidate)
         if (perCandidate[c].total >= 500) {
             candidate.addClass("ok")
         } else {
             candidate.addClass("nok")
         }
-        const header = $("<header>").append($("<h1>").text(c)).append($("<p>").text(perCandidate[c].total +
-            " parrainages"));
         if (alignment[c]) {
-            header.attr("style", "background-color:" + alignment[c])
+            candidate.attr("style", "--alignment-color: " + alignment[c])
         }
+
+        const header = $("<header>").append($("<h2>").text(c)).append($("<p>").text(perCandidate[c].total +
+            " parrainages").addClass("parrainnages"));
         candidate.append(header)
-        let $ul = $("<ul>");
-        header.append($ul)
-        $ul.append($("<li>").text("Français de l'étranger: " + perCandidate[c].data["ET"]))
-        $ul.append($("<li>").text("Parlement Européen: " + perCandidate[c].data["EU"]))
-        $ul.append($("<li>").text("Autres DOM: " + perCandidate[c].data["DOM-TOM"]))
         const child = $("<article>").attr("id", c)
         child.addClass("map")
         candidate.append(child)
         child.vectorMap({
             map: 'fr_merc',
+            backgroundColor: 'var(--blue)',
             series: {
                 regions: [{
                     values: perCandidate[c].data,
@@ -182,6 +182,14 @@ $(async function () {
                 }]
             }
         })
+
+        const $footer = $("<footer>")
+        candidate.append($footer)
+        const $ul = $("<ul>");
+        $footer.append($ul)
+        $ul.append($("<li>").append($("<strong>").text(perCandidate[c].data["ET"])).append($("<span>").text("Député⋅e⋅s des français de l'étranger")))
+        $ul.append($("<li>").append($("<strong>").text(perCandidate[c].data["EU"])).append($("<span>").text("Parlementaires européens")))
+        $ul.append($("<li>").append($("<strong>").text(perCandidate[c].data["DOM-TOM"])).append($("<span>").text("Député⋅e⋅s des DOM-TOM")))
     })
     $("#filter").on('click', e => {
         if ($(e.target).is(":checked")) {
@@ -192,6 +200,7 @@ $(async function () {
                 n.addClass("map")
                 n.vectorMap({
                     map: 'fr_merc',
+                    backgroundColor: 'var(--blue)',
                     series: {
                         regions: [{
                             values: perCandidate[n.attr("id")].data,

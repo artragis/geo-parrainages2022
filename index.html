@@ -2,36 +2,42 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Parrainage Par Département</title>
-    <link rel="stylesheet" href="jquery-jvectormap.css" type="text/css"/>
-    <link rel="stylesheet" href="layout.css" type="text/css"/>
+    <link rel="stylesheet" href="jquery-jvectormap.css" type="text/css" />
+    <link rel="stylesheet" href="layout.css" type="text/css" />
+
     <script src="jquery.js"></script>
     <script src="jquery-jvectormap.js"></script>
     <script src="elect.js"></script>
-
 </head>
 <body>
 
-<section id="results">
-    <header class="control">
-    <div >
-        <input type="checkbox" name="filter" id="filter"/><label>Ne garder que les candidats avec 500 Parainages</label>
-    </div>
+<header>
+    <p class="surtitle">Élections présidentielles françaises 2022</p>
+    <h1>Liste des parrainages par département</h1>
+</header>
+
+<aside class="control">
     <div>
-        <em><strong>Attention:</strong> Ce site est en béta, pour l'instant, deux problèmes sont connus : </em>
-        <ul>
-            <li>La polynésie Française et plusieurs DOM n'apparaissent pas</li>
-            <li>Les cartes n'affichent pas le nom des départements</li>
-        </ul>
+        <label><input type="checkbox" name="filter" id="filter" /> Ne garder que les candidats avec 500 parrainages</label>
     </div>
-    <div></div>
-    </header>
+</aside>
 
-</section>
+<section id="results">Chargement en cours…</section>
+
 <footer>
-    Construit avec jvectormap (AGPL) et les données publiées par le Conseil Constitutionnel Français
-    Code disponible sur <a href="https://github.com/artragis/geo-parrainages2022">github</a>.
+    <p>
+        <strong>Attention</strong> — Ce site est en beta&nbsp;; pour l'instant, deux problèmes sont connus&nbsp;:
+        la Polynésie Française ainsi que plusieurs DOM n'apparaissent pas, et les cartes n'affichent pas le nom des
+        départements.
+    </p>
 
+    <p>
+        Construit avec jvectormap (AGPL) et les données publiées par le
+        <a href="https://presidentielle2022.conseil-constitutionnel.fr/les-parrainages/tous-les-parrainages-valides.html">Conseil Constitutionnel Français</a>
+    </p>
+    <p>Code disponible sur <a href="https://github.com/artragis/geo-parrainages2022">GitHub</a>.</p>
 </footer>
 <script src="script.js">
 </script>
