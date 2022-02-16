@@ -200,6 +200,7 @@ $(async function () {
                 n.addClass("map")
                 n.vectorMap({
                     map: 'fr_merc',
+                    backgroundColor: 'var(--blue)',
                     series: {
                         regions: [{
                             values: perCandidate[n.attr("id")].data,
