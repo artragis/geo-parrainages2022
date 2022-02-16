@@ -1,27 +1,128 @@
-section{
-    display: flex;
-    flex-wrap: wrap;
+:root {
+    --blue: #19184d;
+    --red: #e30613;
+    --white: #fff;
 
-}
-section .control{
-    flex: 3 100%;
-}
-section div{
+    --blue-bg: #ebebf8;
 
+    --family-text: "Fira Sans", Tahoma, Verdana, Segoe, sans-serif;
+    --family-title: tiempos, "EB Garamond", Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
-section div.invisible{
+
+/* Generic */
+
+body {
+    margin: 0;
+    padding: 0;
+
+    font-family: var(--family-text);
+}
+
+/* Header */
+
+body > header {
+    padding: 3rem .4rem;
+    background: var(--blue);
+    border-bottom: solid 4px var(--red);
+    color: var(--white);
+    text-align: center;
+}
+body > header .surtitle {
+    margin: 0;
+    font-variant: all-small-caps;
+    font-size: 1.2rem;
+    line-height: 1.4;
+}
+body > header h1 {
+    margin: 0;
+    font-family: var(--family-title);
+    font-size: 2.4rem;
+    line-height: .9;
+}
+
+/* Controls */
+
+body > aside.control {
+    margin: 1rem 0;
+    text-align: center;
+}
+
+/* List */
+
+section#results {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+    margin: 0 auto;
+    max-width: 1344px;
+    text-align: center;
+}
+section#results div.invisible{
     display: none;
 }
+
 .result{
-    width: 30%;
-    margin-right: 10px;
+    margin: .6rem;
+    padding: 0;
+    border-top: solid 6px var(--alignment-color, #9AA5B1);
+    border-bottom: solid 4px var(--alignment-color, #9AA5B1);
+    border-radius: 10px;
+    overflow: hidden;
+
+    background: var(--blue-bg);
+}
+.result header {
+    padding: .6rem 0;
+    text-align: center;
+    background: var(--blue-bg);
+}
+.result header h2 {
+    margin: 0;
+    font-size: 1.8rem;
+    font-weight: 600;
+}
+.result header p.parrainnages {
+    margin: 0;
+    font-size: 1.3rem;
 }
 .result .map{
     height: 400px;
+    overflow: hidden;
 }
-header {
-    border-radius: 10px 10px 0px 0px;
+.result .map .jvectormap-container {
+    padding-top: .2rem;
 }
-header h1 {
+.result footer {
+    margin: 0;
+    padding: .4rem 0 .8rem;
+    background: var(--blue);
+    color: var(--white);
+}
+.result footer ul {
+    list-style-type: none;
+    margin: 0;
+}
+.result footer ul li {
+    display: flex;
+}
+.result footer ul li strong {
+    display: block;
+    margin-right: .4rem;
+    width: 2rem;
+    text-align: right;
+}
+
+/* Footer */
+
+body > footer {
+    max-width: 960px;
+    margin: 0 auto;
     text-align: center;
+    color: #3E4C59;
+}
+
+@media screen and (max-width: 768px) {
+    section#results {
+        display: block;
+    }
 }
