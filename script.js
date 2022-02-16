@@ -187,9 +187,9 @@ $(async function () {
         candidate.append($footer)
         const $ul = $("<ul>");
         $footer.append($ul)
-        $ul.append($("<li>").append($("<strong>").text(perCandidate[c].data["ET"])).append($("<span>").text("Député⋅e des français de l'étranger")))
+        $ul.append($("<li>").append($("<strong>").text(perCandidate[c].data["ET"])).append($("<span>").text("Député⋅e⋅s des français de l'étranger")))
         $ul.append($("<li>").append($("<strong>").text(perCandidate[c].data["EU"])).append($("<span>").text("Parlementaires européens")))
-        $ul.append($("<li>").append($("<strong>").text(perCandidate[c].data["DOM-TOM"])).append($("<span>").text("DOM-TOM")))
+        $ul.append($("<li>").append($("<strong>").text(perCandidate[c].data["DOM-TOM"])).append($("<span>").text("Député⋅e⋅s des DOM-TOM")))
     })
     $("#filter").on('click', e => {
         if ($(e.target).is(":checked")) {
