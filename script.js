@@ -145,7 +145,7 @@ $(async function () {
 
     $results.text('') // empties the loading message
 
-    Object.keys(perCandidate).forEach(c => {
+    Object.keys(perCandidate).sort().forEach(c => {
         const candidate = $("<div>").addClass("result")
 
         $results.append(candidate)
