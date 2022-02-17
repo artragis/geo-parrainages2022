@@ -5,7 +5,7 @@ Pour être inscrit aux premier tour, un candidat doit avoir été présenté au 
 
 - les maires
 - les député(e)s européen(ne)s
-- les député(e)s français(es)
+- les parlementaires français(es)
 - conseiller(e)s départementaux
 - conseiller(e)s régionnaux
 - Président(e)s de conseil consulaire
