@@ -1,0 +1,23 @@
+name: CI
+
+on:
+  schedule:
+    - cron: 0,5,10,15,20,25,30,35 17 * * *
+
+jobs:
+  update-json:
+    name: Met à jour les parrainages si nécessaire
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Fetch data
+        run: wget https://presidentielle2022.conseil-constitutionnel.fr/telechargement/parrainagestotal.json && mv parrainagestotal.json data2.json
+      - name: push
+        uses: EndBug/add-and-commit@v8
+        with:
+          add: data2.json
+          author_name: artragis
+          author_email: artragis@gmail.com
+          commit: --signoff
+          message: "Nouveaux parrainages"
