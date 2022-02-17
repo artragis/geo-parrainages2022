@@ -42,9 +42,36 @@ body > header h1 {
 
 /* Controls */
 
-body > aside.control {
-    margin: 1rem 0;
-    text-align: center;
+body > aside.controls {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 1rem auto;
+    max-width: 1344px;
+}
+
+body > aside.controls .search {
+    flex: 10;
+    margin-left: .6rem;
+}
+body > aside.controls .search input[type="search"] {
+    padding: .4rem;
+    border: solid 1px #CBD2D9;
+    border-radius: 4px;
+    width: 20rem;
+}
+
+body > aside.controls .filters {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: .6rem;
+}
+body > aside.controls .filters *:not(:last-child) {
+    margin-right: 1rem;
+}
+body > aside.controls .filters p {
+    font-weight: bold;
 }
 
 /* List */
@@ -61,7 +88,7 @@ section#results div.invisible{
     display: none;
 }
 
-.result{
+.result {
     margin: .6rem;
     padding: 0;
     border-top: solid 6px var(--alignment-color, #9AA5B1);
@@ -112,6 +139,19 @@ section#results div.invisible{
     text-align: right;
 }
 
+.no-results {
+    display: none;
+    margin: 6rem 0;
+    text-align: center;
+    line-height: 1.4;
+}
+.no-results.is-active {
+    display: block;
+}
+.no-results strong {
+    font-size: 1.4rem;
+}
+
 /* Footer */
 
 body > footer {
@@ -122,6 +162,22 @@ body > footer {
 }
 
 @media screen and (max-width: 768px) {
+    body > aside.controls {
+        display: block;
+    }
+    body > aside.controls .search, body > aside.controls .filters {
+        margin: 0 .4rem;
+    }
+    body > aside.controls .search input[type="search"] {
+        width: 100%;
+    }
+    body > aside.controls .filters {
+        margin-top: .4rem;
+    }
+    body > aside.controls .filters p {
+        display: none;
+    }
+
     section#results {
         display: block;
     }

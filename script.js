@@ -125,6 +125,15 @@ const alignment = {
     "ASSELINEAU François": "rgba(0, 0, 200)",
 }
 
+const nonCandidates = [
+    "BARNIER Michel",
+    "HOLLANDE François",
+    "MEURICE Guillaume",
+    "SCHOVANEC Josef",
+    "MARECHAL Philippe Célestin",
+    "MÉNARD Emmanuelle"
+]
+
 $(async function () {
     const r = await fetch("data2.json")
     const result = await r.json()
@@ -143,33 +152,18 @@ $(async function () {
         perCandidate[n.Candidat].data[reverseMap[n.Departement]]++
     })
 
-    $results.text('') // empties the loading message
-
-    Object.keys(perCandidate).sort().forEach(c => {
-        const candidate = $("<div>").addClass("result")
-
-        $results.append(candidate)
-        if (perCandidate[c].total >= 500) {
-            candidate.addClass("ok")
-        } else {
-            candidate.addClass("nok")
-        }
-        if (alignment[c]) {
-            candidate.attr("style", "--alignment-color: " + alignment[c])
-        }
-
-        const header = $("<header>").append($("<h2>").text(c)).append($("<p>").text(perCandidate[c].total +
-            " parrainages").addClass("parrainnages"));
-        candidate.append(header)
-        const child = $("<article>").attr("id", c)
-        child.addClass("map")
-        candidate.append(child)
-        child.vectorMap({
+    /**
+     * Initializes the map on the given element. The element must exist and possess
+     * a data-candidate attribute with the candidate name.
+     * @param mapElem
+     */
+    function initMap(mapElem) {
+        mapElem.vectorMap({
             map: 'fr_merc',
             backgroundColor: 'var(--blue)',
             series: {
                 regions: [{
-                    values: perCandidate[c].data,
+                    values: perCandidate[mapElem.attr("data-candidate")].data,
                     scale: ['#FFFFFF', '#0071A4'],
                     normalizeFunction: 'polynomial',
 
@@ -182,41 +176,96 @@ $(async function () {
                 }]
             }
         })
+    }
+
+    $results.text('') // empties the loading message
+
+    Object.keys(perCandidate).sort().forEach(c => {
+        const candidate = $("<div>")
+            .addClass("result")
+            .attr("data-name", c)
+            .attr("data-valid", perCandidate[c].total >= 500)
+            .attr("data-declared", !nonCandidates.includes(c))
+
+        $results.append(candidate)
+
+        if (perCandidate[c].total >= 500) {
+            candidate.addClass("ok")
+        } else {
+            candidate.addClass("nok")
+        }
+
+        if (alignment[c]) {
+            candidate.attr("style", "--alignment-color: " + alignment[c])
+        }
+
+        const header = $("<header>")
+            .append($("<h2>").text(c))
+            .append(
+                $("<p>")
+                    .text(perCandidate[c].total + " parrainage" + (perCandidate[c].total > 1 ? "s" : ""))
+                    .addClass("parrainnages")
+            );
+        candidate.append(header)
+
+        const child = $("<article>")
+            .attr("data-candidate", c)
+            .addClass("map")
+        candidate.append(child)
+
+        initMap(child)
 
         const $footer = $("<footer>")
         candidate.append($footer)
+
         const $ul = $("<ul>");
         $footer.append($ul)
-        $ul.append($("<li>").append($("<strong>").text(perCandidate[c].data["ET"])).append($("<span>").text("Député⋅e⋅s des français de l'étranger")))
-        $ul.append($("<li>").append($("<strong>").text(perCandidate[c].data["EU"])).append($("<span>").text("Parlementaires européens")))
-        $ul.append($("<li>").append($("<strong>").text(perCandidate[c].data["DOM-TOM"])).append($("<span>").text("Député⋅e⋅s des DOM-TOM")))
-    })
-    $("#filter").on('click', e => {
-        if ($(e.target).is(":checked")) {
-            $(".nok").addClass("invisible")
-        } else {
-            $(".nok").removeClass("invisible")
-            $(".nok").each(n => {
-                n.addClass("map")
-                n.vectorMap({
-                    map: 'fr_merc',
-                    backgroundColor: 'var(--blue)',
-                    series: {
-                        regions: [{
-                            values: perCandidate[n.attr("id")].data,
-                            scale: ['#FFFFFF', '#0071A4'],
-                            normalizeFunction: 'polynomial',
-                            legend: {
-                                horizontal: true
-                            },
-                            onRegionTipShow: function (e, el, code) {
-                                el.html(code);
-                            }
-                        }]
-                    },
 
-                })
-            })
-        }
+        $ul.append($("<li>").append($("<strong>").text(perCandidate[c].data["ET"])).append($("<span>").text("Député⋅e⋅s des français de l'étranger")))
+        $ul.append($("<li>").append($("<strong>").text(perCandidate[c].data["DOM-TOM"])).append($("<span>").text("Député⋅e⋅s des DOM-TOM")))
+        $ul.append($("<li>").append($("<strong>").text(perCandidate[c].data["EU"])).append($("<span>").text("Parlementaires européens")))
     })
+
+    /* Filters */
+
+    const searchElem = document.getElementById("filter:search")
+    const filter500Elem = document.getElementById("filter:500")
+    const filterDeclaredElem = document.getElementById("filter:declared-candidates")
+    const noResultsElem = document.querySelector("section.no-results")
+
+    /**
+     * Reads the current filters and applies them.
+     */
+    function filterCandidates() {
+        const search = searchElem.value.toLowerCase()
+        const filter500 = filter500Elem.checked
+        const filterDeclared = filterDeclaredElem.checked
+
+        let hasVisibles = false
+
+        document.querySelectorAll("#results .result").forEach(elem => {
+            let visible = true
+            if (search && elem.getAttribute("data-name").toLowerCase().indexOf(search) === -1) {
+                visible = false
+            }
+
+            if (filter500 && elem.getAttribute("data-valid") !== "true") {
+                visible = false
+            }
+
+            if (filterDeclared && elem.getAttribute("data-declared") === "false") {
+                visible = false
+            }
+
+            elem.classList.toggle("invisible", !visible)
+            hasVisibles |= visible
+        })
+
+        noResultsElem.classList.toggle("is-active", !hasVisibles)
+    }
+
+    $("aside.controls input[type='checkbox']").on('click', filterCandidates)
+    $("aside.controls input[type='search']").on('input', filterCandidates)
+
+    filterCandidates()
 });

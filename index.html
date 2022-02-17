@@ -18,13 +18,24 @@
     <h1>Liste des parrainages par département</h1>
 </header>
 
-<aside class="control">
-    <div>
-        <label><input type="checkbox" name="filter" id="filter" /> Ne garder que les candidats avec 500 parrainages</label>
+<aside class="controls">
+    <div class="search">
+        <input type="search" id="filter:search" placeholder="Filtrer par nom…" aria-label="Filtrer par nom" />
+    </div>
+    <div class="filters">
+        <p>Filtrer</p>
+        <label><input type="checkbox" name="filter" id="filter:500" /> 500+ parrainages</label>
+        <label><input type="checkbox" name="filter" id="filter:declared-candidates" /> Candidatures déclarées</label>
     </div>
 </aside>
 
 <section id="results">Chargement en cours…</section>
+
+<section class="no-results">
+    <strong>Aucun parrainage ne correspond.</strong><br />
+    Si vous en avez le droit et que vous n'avez pas déjà parrainé quelqu'un, vous pouvez
+    <a href="https://presidentielle2022.conseil-constitutionnel.fr/les-candidats/parrainer-un-candidat/comment-parrainer-un-candidat.html">envoyer votre parrainage</a>.
+</section>
 
 <footer>
     <p>
