@@ -131,7 +131,10 @@ const nonCandidates = [
     "MEURICE Guillaume",
     "SCHOVANEC Josef",
     "MARECHAL Philippe Célestin",
-    "MÉNARD Emmanuelle"
+    "MÉNARD Emmanuelle",
+    "COJAN Patrick",
+    "FESSARD DE FOUCAULT Bertrand",
+    "MACRON Emmanuel",
 ]
 
 $(async function () {
@@ -140,6 +143,7 @@ $(async function () {
     const perCandidate = {}
     const $results = $("#results")
 
+    // Aggregates signatures per candidate
     result.forEach(n => {
         if (!(perCandidate[n.Candidat])) {
             perCandidate[n.Candidat] = {data: {}, total: 0}
@@ -148,6 +152,12 @@ $(async function () {
 
         perCandidate[n.Candidat].total++;
         perCandidate[n.Candidat].data[reverseMap[n.Departement]]++
+    })
+
+    // Computes geographical repartition of signatures
+    Object.keys(perCandidate).forEach(c => {
+        perCandidate[c].total_departments = Object.keys(perCandidate[c].data).filter(dept => perCandidate[c].data[dept] > 0).length
+        perCandidate[c].valid_repartition = Object.keys(perCandidate[c].data).map(dept => Math.min(perCandidate[c].data[dept], 50)).reduce((a, b) => a + b, 0) > 500
     })
 
     /**
@@ -191,6 +201,8 @@ $(async function () {
             .attr("data-name", c)
             .attr("data-valid", perCandidate[c].total >= 500)
             .attr("data-declared", !nonCandidates.includes(c))
+            .attr("data-valid-depts", perCandidate[c].total_departments > 30)
+            .attr("data-valid-repartition", perCandidate[c].valid_repartition)
 
         $results.append(candidate)
 
@@ -204,7 +216,12 @@ $(async function () {
                 $("<p>")
                     .text(perCandidate[c].total + " parrainage" + (perCandidate[c].total > 1 ? "s" : ""))
                     .addClass("parrainages")
-            );
+            )
+            .append(
+                $("<p>")
+                    .text(`dans ${perCandidate[c].total_departments} département${perCandidate[c].total_departments > 1 ? "s" : ""}`)
+                    .addClass("departments")
+            )
         candidate.append(header)
 
         const child = $("<article>")
@@ -229,6 +246,8 @@ $(async function () {
 
     const searchElem = document.getElementById("filter:search")
     const filter500Elem = document.getElementById("filter:500")
+    const filter30Elem = document.getElementById("filter:30")
+    const filterRepartitionElem = document.getElementById("filter:repartition")
     const filterDeclaredElem = document.getElementById("filter:declared-candidates")
     const noResultsElem = document.querySelector("section.no-results")
 
@@ -238,6 +257,8 @@ $(async function () {
     function filterCandidates() {
         const search = searchElem.value.toLowerCase()
         const filter500 = filter500Elem.checked
+        const filter30 = filter30Elem.checked
+        const filterRepartition = filterRepartitionElem.checked
         const filterDeclared = filterDeclaredElem.checked
 
         let hasVisibles = false
@@ -249,6 +270,14 @@ $(async function () {
             }
 
             if (filter500 && elem.getAttribute("data-valid") !== "true") {
+                visible = false
+            }
+
+            if (filter30 && elem.getAttribute("data-valid-depts") !== "true") {
+                visible = false
+            }
+
+            if (filterRepartition && elem.getAttribute("data-valid-repartition") !== "true") {
                 visible = false
             }
 
