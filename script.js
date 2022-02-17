@@ -143,6 +143,8 @@ $(async function () {
     const perCandidate = {}
     const $results = $("#results")
 
+    let updateDate = null
+
     // Aggregates signatures per candidate
     result.forEach(n => {
         if (!(perCandidate[n.Candidat])) {
@@ -150,8 +152,13 @@ $(async function () {
             Object.values(reverseMap).forEach(v => perCandidate[n.Candidat].data[v] = 0)
         }
 
-        perCandidate[n.Candidat].total++;
+        perCandidate[n.Candidat].total++
         perCandidate[n.Candidat].data[reverseMap[n.Departement]]++
+
+        const date = new Date(n.DatePublication)
+        if (updateDate === null || date > updateDate) {
+            updateDate = date
+        }
     })
 
     // Computes geographical repartition of signatures
@@ -159,6 +166,10 @@ $(async function () {
         perCandidate[c].total_departments = Object.keys(perCandidate[c].data).filter(dept => perCandidate[c].data[dept] > 0).length
         perCandidate[c].valid_repartition = Object.keys(perCandidate[c].data).map(dept => Math.min(perCandidate[c].data[dept], 50)).reduce((a, b) => a + b, 0) > 500
     })
+
+    // Displays the freshness of the data
+    const formatter = new Intl.DateTimeFormat('fr-FR', { dateStyle: 'full' })
+    document.getElementById("update-date").innerText = `${result.length} parrainages déposés au ${formatter.format(updateDate)}.`
 
     /**
      * Initializes the map on the given element. The element must exist and possess
