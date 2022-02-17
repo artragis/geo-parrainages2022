@@ -88,7 +88,7 @@ const reverseMap = {
     "Loire": "FR-42",
     "Haute-Loire": "FR-43",
     "Val-d'Oise": "FR-95",
-    "Guyane française": "FR-GF",
+    "Guyane": "FR-GF",
     "Guadeloupe": "FR-GP",
     "Jura": "FR-39",
     "Isère": "FR-38",
@@ -104,7 +104,8 @@ const reverseMap = {
     "Français de l'étranger": "ET",
     "Saint-Martin": "DOM-TOM",
     "Polynésie française": "DOM-TOM",
-    "Nouvelle-Calédonie": "DOM-TOM"
+    "Nouvelle-Calédonie": "DOM-TOM",
+    "Saint-Barthélemy": "DOM-TOM"
 }
 const alignment = {
     "ARTHAUD Nathalie": "rgba(255, 0, 0)",
@@ -154,6 +155,9 @@ $(async function () {
 
         perCandidate[n.Candidat].total++
         perCandidate[n.Candidat].data[reverseMap[n.Departement]]++
+        if (!reverseMap[n.Departement]) {
+            console.log(n.Departement)
+        }
 
         const date = new Date(n.DatePublication)
         if (updateDate === null || date > updateDate) {
