@@ -262,6 +262,7 @@ $(async function () {
         })
 
         noResultsElem.classList.toggle("is-active", !hasVisibles)
+        noResultsElem.setAttribute("aria-hidden", !!hasVisibles)
     }
 
     $("aside.controls input[type='checkbox']").on('click', filterCandidates)
