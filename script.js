@@ -134,6 +134,7 @@ const nonCandidates = [
     "MÉNARD Emmanuelle",
     "COJAN Patrick",
     "FESSARD DE FOUCAULT Bertrand",
+    "MACRON Emmanuel",
 ]
 
 $(async function () {
