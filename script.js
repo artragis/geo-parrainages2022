@@ -163,10 +163,12 @@ $(async function () {
                 regions: [{
                     values: perCandidate[mapElem.attr("data-candidate")].data,
                     scale: ['#FFFFFF', '#0071A4'],
+                    min: 0,
+                    max: 90,
                     normalizeFunction: 'polynomial',
 
                     legend: {
-                        horizontal: true
+                        vertical: true
                     },
                 }]
             },

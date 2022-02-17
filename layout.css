@@ -165,6 +165,9 @@ body > footer {
     color: #3E4C59;
 }
 
+.jvectormap-legend-cnt-v .jvectormap-legend-tick-text {
+    min-width: 1.5em;
+}
 @media screen and (max-width: 768px) {
     body > aside.controls {
         display: block;
