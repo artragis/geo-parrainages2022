@@ -145,9 +145,7 @@ $(async function () {
             perCandidate[n.Candidat] = {data: {}, total: 0}
             Object.values(reverseMap).forEach(v => perCandidate[n.Candidat].data[v] = 0)
         }
-        if (!reverseMap[n.Departement]) {
-            console.log(n.Departement)
-        }
+
         perCandidate[n.Candidat].total++;
         perCandidate[n.Candidat].data[reverseMap[n.Departement]]++
     })
@@ -194,12 +192,6 @@ $(async function () {
 
         $results.append(candidate)
 
-        if (perCandidate[c].total >= 500) {
-            candidate.addClass("ok")
-        } else {
-            candidate.addClass("nok")
-        }
-
         if (alignment[c]) {
             candidate.attr("style", "--alignment-color: " + alignment[c])
         }
@@ -209,7 +201,7 @@ $(async function () {
             .append(
                 $("<p>")
                     .text(perCandidate[c].total + " parrainage" + (perCandidate[c].total > 1 ? "s" : ""))
-                    .addClass("parrainnages")
+                    .addClass("parrainages")
             );
         candidate.append(header)
 
