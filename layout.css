@@ -112,12 +112,16 @@ section#results div.invisible{
     margin: 0;
     font-size: 1.3rem;
 }
-.result .map{
+.result .map {
     height: 400px;
     overflow: hidden;
 }
 .result .map .jvectormap-container {
     padding-top: .2rem;
+}
+.jvectormap-tip {
+    line-height: .9;
+    padding: .4rem;
 }
 .result footer {
     margin: 0;

@@ -170,10 +170,15 @@ $(async function () {
                     legend: {
                         horizontal: true
                     },
-                    onRegionTipShow: function (e, el, code) {
-                        el.html(code);
-                    }
                 }]
+            },
+
+            onRegionTipShow: function (e, el, code) {
+                const parrainages = perCandidate[mapElem.attr("data-candidate")].data[code]
+                el.html(`
+                    ${mapElem.vectorMap("get", "mapObject").regions[code].config.name}<br />
+                    <small>${parrainages} parrainage${parrainages > 1 ? 's' : ''}</small>
+                `);
             }
         })
     }

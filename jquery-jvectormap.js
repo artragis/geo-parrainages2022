@@ -2631,7 +2631,7 @@ jvm.Map.prototype = {
   createTip: function(){
     var map = this;
 
-    jvm.$('body > .jvectormap-tip').remove();
+    // jvm.$('body > .jvectormap-tip').remove(); - FIX GEOPARRAINAGES2022 - MULTIPLE TIPS ON SAME PAGE
     this.tip = jvm.$('<div/>').addClass('jvectormap-tip').appendTo(jvm.$('body'));
 
     this.container.mousemove(function(e){
