@@ -140,14 +140,14 @@ const nonCandidates = [
 function sortCandidate(perCandidate, candidates) {
     const perParrainageSort = (a, b) => {
         if (perCandidate[a].total < perCandidate[b].total) {
-            return -1;
+            return 1;
         }
         if (perCandidate[a].total > perCandidate[b].total) {
-            return 1;
+            return -1;
         }
         return 0
     }
-    if (document.getElementById("order").value == "num") {
+    if (document.getElementById("order").value === "nb") {
         return candidates.sort(perParrainageSort)
     }
     return candidates.sort()
@@ -156,7 +156,7 @@ function sortCandidate(perCandidate, candidates) {
 function reorderCandidates(perCandidates) {
     const newOrder = sortCandidate(perCandidates,Object.keys(perCandidates))
     const $results = $("#results")
-    newOrder.forEach(candidate => $("#" + candidate).appendTo($results))
+    newOrder.forEach(candidate => $(".result[data-name='" + candidate+"']").appendTo($results))
 }
 $(async function () {
     const r = await fetch("data2.json")
@@ -231,8 +231,8 @@ $(async function () {
     $results.text('') // empties the loading message
 
 
-
-    Object.keys(perCandidate).sort().forEach(c => {
+    $("#order").change(() => reorderCandidates(perCandidate))
+    sortCandidate(perCandidate,Object.keys(perCandidate)).forEach(c => {
         const candidate = $("<div>")
             .addClass("result")
             .attr("data-name", c)
@@ -336,7 +336,7 @@ $(async function () {
 
     $("aside.controls input[type='checkbox']").on('click', filterCandidates)
     $("aside.controls input[type='search']").on('input', filterCandidates)
-    $("#order").change(() => reorderCandidates(perCandidate))
+
     filterCandidates()
 
 });
