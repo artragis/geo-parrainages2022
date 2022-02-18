@@ -137,7 +137,27 @@ const nonCandidates = [
     "FESSARD DE FOUCAULT Bertrand",
     "MACRON Emmanuel",
 ]
+function sortCandidate(perCandidate, candidates) {
+    const perParrainageSort = (a, b) => {
+        if (perCandidate[a].total < perCandidate[b].total) {
+            return -1;
+        }
+        if (perCandidate[a].total > perCandidate[b].total) {
+            return 1;
+        }
+        return 0
+    }
+    if (document.getElementById("order").value == "num") {
+        return candidates.sort(perParrainageSort)
+    }
+    return candidates.sort()
+}
 
+function reorderCandidates(perCandidates) {
+    const newOrder = sortCandidate(perCandidates,Object.keys(perCandidates))
+    const $results = $("#results")
+    newOrder.forEach(candidate => $("#" + candidate).appendTo($results))
+}
 $(async function () {
     const r = await fetch("data2.json")
     const result = await r.json()
@@ -209,6 +229,8 @@ $(async function () {
     }
 
     $results.text('') // empties the loading message
+
+
 
     Object.keys(perCandidate).sort().forEach(c => {
         const candidate = $("<div>")
@@ -314,6 +336,7 @@ $(async function () {
 
     $("aside.controls input[type='checkbox']").on('click', filterCandidates)
     $("aside.controls input[type='search']").on('input', filterCandidates)
-
+    $("#order").change(() => reorderCandidates(perCandidate))
     filterCandidates()
+
 });
