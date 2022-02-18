@@ -50,15 +50,25 @@ body > aside.controls {
     max-width: 1344px;
 }
 
+body > aside.controls .order {
+    margin-left: .6rem;
+}
+body > aside.controls .order select {
+    padding: .4rem;
+    border: solid 1px #CBD2D9;
+    border-radius: 4px;
+    background-color: var(--white)
+}
+
 body > aside.controls .search {
     flex: 10;
-    margin-left: .6rem;
+    margin-left: .4rem;
 }
 body > aside.controls .search input[type="search"] {
     padding: .4rem;
     border: solid 1px #CBD2D9;
     border-radius: 4px;
-    width: 20rem;
+    width: 16rem;
 }
 
 body > aside.controls .filters {
@@ -176,13 +186,13 @@ body > footer {
     body > aside.controls {
         display: block;
     }
-    body > aside.controls .search, body > aside.controls .filters {
+    body > aside.controls .order, body > aside.controls .search, body > aside.controls .filters {
         margin: 0 .4rem;
     }
-    body > aside.controls .search input[type="search"] {
+    body > aside.controls .order select, body > aside.controls .search input[type="search"] {
         width: 100%;
     }
-    body > aside.controls .filters {
+    body > aside.controls .search, body > aside.controls .filters {
         margin-top: .4rem;
         display: block;
     }
