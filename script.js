@@ -136,6 +136,7 @@ const nonCandidates = [
     "COJAN Patrick",
     "FESSARD DE FOUCAULT Bertrand",
     "MACRON Emmanuel",
+    "PHILIPPOT Florian",
 ]
 function sortCandidate(perCandidate, candidates) {
     const perParrainageSort = (a, b) => {
