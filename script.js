@@ -1,4 +1,4 @@
-const reverseMap = {
+const deptToCodeMap = {
     "Eure-et-Loir": "FR-28",
     "Finistère": "FR-29",
     "Côtes-d'Armor": "FR-22",
@@ -107,6 +107,8 @@ const reverseMap = {
     "Nouvelle-Calédonie": "DOM-TOM",
     "Saint-Barthélemy": "DOM-TOM"
 }
+const codeToDeptMap = {}
+Object.keys(deptToCodeMap).forEach(dept => codeToDeptMap[deptToCodeMap[dept]]= dept)
 const alignment = {
     "ARTHAUD Nathalie": "rgba(255, 0, 0)",
     "HIDALGO Anne": "rgba(230, 33, 84, 0.8)",
@@ -160,8 +162,8 @@ function reorderCandidates(perCandidates) {
     newOrder.forEach(candidate => $(".result[data-name='" + candidate+"']").appendTo($results))
 }
 $(async function () {
-    const r = await fetch("data2.json")
-    const result = await r.json()
+
+    const result = await fetch("data2.json").then(r => r.json())
     const perCandidate = {}
     const $results = $("#results")
 
@@ -170,13 +172,17 @@ $(async function () {
     // Aggregates signatures per candidate
     result.forEach(n => {
         if (!(perCandidate[n.Candidat])) {
-            perCandidate[n.Candidat] = {data: {}, total: 0}
-            Object.values(reverseMap).forEach(v => perCandidate[n.Candidat].data[v] = 0)
+            perCandidate[n.Candidat] = {data: {}, dataMayor: {}, total: 0}
+            Object.values(deptToCodeMap).forEach(v => perCandidate[n.Candidat].data[v] = 0)
+            Object.values(deptToCodeMap).forEach(v => perCandidate[n.Candidat].dataMayor[v] = 0)
         }
 
         perCandidate[n.Candidat].total++
-        perCandidate[n.Candidat].data[reverseMap[n.Departement]]++
-        if (!reverseMap[n.Departement]) {
+        perCandidate[n.Candidat].data[deptToCodeMap[n.Departement]]++
+        if (n.Mandat === "Maire") {
+            perCandidate[n.Candidat].dataMayor[deptToCodeMap[n.Departement]]++
+        }
+        if (!deptToCodeMap[n.Departement]) {
             console.log(n.Departement)
         }
 
@@ -185,6 +191,7 @@ $(async function () {
             updateDate = date
         }
     })
+
 
     // Computes geographical repartition of signatures
     Object.keys(perCandidate).forEach(c => {
@@ -202,12 +209,13 @@ $(async function () {
      * @param mapElem
      */
     function initMap(mapElem) {
+        const candidateName = mapElem.attr("data-candidate");
         mapElem.vectorMap({
             map: 'fr_merc',
             backgroundColor: 'var(--blue)',
             series: {
                 regions: [{
-                    values: perCandidate[mapElem.attr("data-candidate")].data,
+                    values: perCandidate[candidateName].data,
                     scale: ['#FFFFFF', '#0071A4'],
                     min: 0,
                     max: 90,
@@ -220,10 +228,13 @@ $(async function () {
             },
 
             onRegionTipShow: function (e, el, code) {
-                const parrainages = perCandidate[mapElem.attr("data-candidate")].data[code]
+                const parrainages = perCandidate[candidateName].data[code]
+                const nbMayorForCandidate = perCandidate[candidateName].dataMayor[code]
+                const nbMayorTotal = mayors[codeToDeptMap[code]]
                 el.html(`
                     ${mapElem.vectorMap("get", "mapObject").regions[code].config.name}<br />
                     <small>${parrainages} parrainage${parrainages > 1 ? 's' : ''}</small>
+                    (${nbMayorForCandidate} / ${nbMayorTotal} maires)
                 `);
             }
         })
