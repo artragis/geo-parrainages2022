@@ -20,9 +20,9 @@
 
 <aside class="controls">
     <div class="order">
-        <select id="order" name="order">
-            <option value="alpha">Par ordre alphabétique</option>
-            <option value="nb">Par nombre de parrainages</option>
+        <select id="order" name="order" aria-label="Trier les candidat⋅e⋅s par…" title="Trier les candidat⋅e⋅s par…">
+            <option value="alpha">Ordre alphabétique</option>
+            <option value="nb">Nombre de parrainages</option>
         </select>
     </div>
     <div class="search">
@@ -30,10 +30,18 @@
     </div>
     <div class="filters">
         <p>Filtrer</p>
-        <label><input type="checkbox" name="filter" id="filter:500" /> 500+ parrainages</label>
-        <label><input type="checkbox" name="filter" id="filter:30" /> 30+ départements</label>
-        <label><input type="checkbox" name="filter" id="filter:repartition" /> Répartition valide</label>
-        <label><input type="checkbox" name="filter" id="filter:declared-candidates" /> Candidature déclarée</label>
+        <label title="Seules les candidatures avec au moins 500 parrainages seront visibles.">
+            <input type="checkbox" name="filter" id="filter:500"/> 500+ parrainages
+        </label>
+        <label title="Seules les candidatures avec des parrainages provenant d'au moins 30 départements seront visibles.">
+            <input type="checkbox" name="filter" id="filter:30" /> 30+ départements
+        </label>
+        <label title="Seules les candidatures respectant les règles de répartition (500 parrainages mais max 50 des parrainages dans un département donné) seront visibles.">
+            <input type="checkbox" name="filter" id="filter:repartition" /> Répartition valide
+        </label>
+        <label title="Seul⋅e⋅s les candidat⋅e⋅s ayant déclaré l'être vraiment seront visibles (vu qu'il est possible de parrainer n'importe qui).">
+            <input type="checkbox" name="filter" id="filter:declared-candidates" /> Candidature déclarée
+        </label>
     </div>
 </aside>
 
