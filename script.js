@@ -266,11 +266,15 @@ $(async function () {
     const filterDeclaredElem = document.getElementById("filter:declared-candidates")
     const noResultsElem = document.querySelector("section.no-results")
 
+    function normalizeString(str) {
+        return str.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+    }
+
     /**
      * Reads the current filters and applies them.
      */
     function filterCandidates() {
-        const search = searchElem.value.toLowerCase()
+        const search = normalizeString(searchElem.value)
         const filter500 = filter500Elem.checked
         const filter30 = filter30Elem.checked
         const filterRepartition = filterRepartitionElem.checked
@@ -280,7 +284,7 @@ $(async function () {
 
         document.querySelectorAll("#results .result").forEach(elem => {
             let visible = true
-            if (search && elem.getAttribute("data-name").toLowerCase().indexOf(search) === -1) {
+            if (search && normalizeString(elem.getAttribute("data-name")).indexOf(search) === -1) {
                 visible = false
             }
 
