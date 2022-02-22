@@ -180,7 +180,7 @@ $(async function () {
 
         perCandidate[n.Candidat].total++
         perCandidate[n.Candidat].data[deptToCodeMap[n.Departement]]++
-        if (n.Mandat === "Maire") {
+        if (n.Mandat.includes("Maire")) {
             perCandidate[n.Candidat].dataMayor[deptToCodeMap[n.Departement]]++
         }
         if (!deptToCodeMap[n.Departement]) {
