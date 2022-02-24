@@ -106,7 +106,9 @@ const deptToCodeMap = {
     "Polynésie française": "DOM-TOM",
     "Nouvelle-Calédonie": "DOM-TOM",
     "Saint-Barthélemy": "DOM-TOM",
-    "Saint-Martin / Saint-Barthélémy" : "DOM-TOM"
+    "Saint-Martin / Saint-Barthélémy" : "DOM-TOM",
+    "Saint-Pierre-et-Miquelon": "DOM-TOM",
+    "Wallis et Futuna": "DOM-TOM"
 }
 const codeToDeptMap = {}
 Object.keys(deptToCodeMap).forEach(dept => codeToDeptMap[deptToCodeMap[dept]]= dept)
