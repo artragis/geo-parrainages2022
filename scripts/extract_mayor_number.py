@@ -5,15 +5,13 @@ from json import dumps
 
 def extract_mayor_file(file_path: Path):
     departments = []
+    city = set()
     with file_path.open() as f:
-        reader = DictReader(f, [
-            "code_commune_INSEE", "nom_commune_postal",
-            "code_postal", "libelle_acheminement", "ligne_5",
-            "latitude", "longitude", "code_commune",
-            "article", "nom_commune", "nom_commune_complet", "code_departement", "nom_departement", "code_region",
-            "nom_region"
-        ])
+        reader = DictReader(f)
         for line in reader:
+            if (line['nom_departement'], line['nom_commune_complet']) in city:
+                continue
+            city.add((line['nom_departement'], line['nom_commune_complet']))
             departments.append(line["nom_departement"])
     return Counter(departments)
 
