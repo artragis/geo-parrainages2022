@@ -140,7 +140,6 @@ const nonCandidates = [
     "MÉNARD Emmanuelle",
     "COJAN Patrick",
     "FESSARD DE FOUCAULT Bertrand",
-    "MACRON Emmanuel",
     "PHILIPPOT Florian",
 ]
 function sortCandidate(perCandidate, candidates) {
