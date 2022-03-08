@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "Civilite": "M.",
     "Nom": "CORDIVAL",
@@ -127508,5 +127508,6765 @@
     "Departement": "Français de l\u0027étranger",
     "Candidat": "ZEMMOUR Éric",
     "DatePublication": "2022-03-03T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "EGLOFF",
+    "Prenom": "Didier",
+    "Mandat": "Maire",
+    "Circonscription": "Loupeigne",
+    "Departement": "Aisne",
+    "Candidat": "ARTHAUD Nathalie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "POTIER",
+    "Prenom": "David",
+    "Mandat": "Maire",
+    "Circonscription": "Coucy",
+    "Departement": "Ardennes",
+    "Candidat": "ARTHAUD Nathalie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MORALÈS",
+    "Prenom": "Roland",
+    "Mandat": "Maire",
+    "Circonscription": "Recologne",
+    "Departement": "Doubs",
+    "Candidat": "ARTHAUD Nathalie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "TYROLE",
+    "Prenom": "Emilie",
+    "Mandat": "Maire",
+    "Circonscription": "Fontenelle-Montby",
+    "Departement": "Doubs",
+    "Candidat": "ARTHAUD Nathalie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BARRY",
+    "Prenom": "Francis",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Christophe-et-le-Laris",
+    "Departement": "Drôme",
+    "Candidat": "ARTHAUD Nathalie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GRINDATTO",
+    "Prenom": "Bernard",
+    "Mandat": "Maire",
+    "Circonscription": "Pont-en-Royans",
+    "Departement": "Isère",
+    "Candidat": "ARTHAUD Nathalie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CHANAL",
+    "Prenom": "Pierre-Henri",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Maurice-d\u0027Ibie",
+    "Departement": "Ardèche",
+    "Candidat": "ASSELINEAU François",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "PIERSON",
+    "Prenom": "Florent",
+    "Mandat": "Maire",
+    "Circonscription": "Sommerance",
+    "Departement": "Ardennes",
+    "Candidat": "ASSELINEAU François",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "TRUCHASSOU",
+    "Prenom": "Georgette",
+    "Mandat": "Maire déléguée d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Rethel",
+    "Departement": "Ardennes",
+    "Candidat": "ASSELINEAU François",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "HÉMET",
+    "Prenom": "Pascal",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Vexin-sur-Epte",
+    "Departement": "Eure",
+    "Candidat": "ASSELINEAU François",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "VAN PETEGHEM",
+    "Prenom": "Bertrand",
+    "Mandat": "Maire",
+    "Circonscription": "Soudorgues",
+    "Departement": "Gard",
+    "Candidat": "ASSELINEAU François",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "PASSICOS",
+    "Prenom": "André",
+    "Mandat": "Maire",
+    "Circonscription": "Pimbo",
+    "Departement": "Landes",
+    "Candidat": "ASSELINEAU François",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MEUNIER",
+    "Prenom": "Patrick",
+    "Mandat": "Maire",
+    "Circonscription": "Noailly",
+    "Departement": "Loire",
+    "Candidat": "ASSELINEAU François",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "FAURE",
+    "Prenom": "Christian",
+    "Mandat": "Maire",
+    "Circonscription": "Savignac-sur-Leyze",
+    "Departement": "Lot-et-Garonne",
+    "Candidat": "ASSELINEAU François",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "TEYSSEDOU",
+    "Prenom": "Adrien",
+    "Mandat": "Maire",
+    "Circonscription": "Gavaudun",
+    "Departement": "Lot-et-Garonne",
+    "Candidat": "ASSELINEAU François",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "FERRERO",
+    "Prenom": "Marc",
+    "Mandat": "Maire",
+    "Circonscription": "Havange",
+    "Departement": "Moselle",
+    "Candidat": "ASSELINEAU François",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CALLY",
+    "Prenom": "Dominique",
+    "Mandat": "Maire",
+    "Circonscription": "Domaize",
+    "Departement": "Puy-de-Dôme",
+    "Candidat": "ASSELINEAU François",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "SORBET",
+    "Prenom": "Jean-Louis",
+    "Mandat": "Maire",
+    "Circonscription": "Puydarrieux",
+    "Departement": "Hautes-Pyrénées",
+    "Candidat": "ASSELINEAU François",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "VIÉ",
+    "Prenom": "Nicole",
+    "Mandat": "Maire",
+    "Circonscription": "Villechétive",
+    "Departement": "Yonne",
+    "Candidat": "ASSELINEAU François",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LALLOYER",
+    "Prenom": "Norbert",
+    "Mandat": "Maire",
+    "Circonscription": "Longuesse",
+    "Departement": "Val-d\u0027Oise",
+    "Candidat": "ASSELINEAU François",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "JULIEN-FARCIS",
+    "Prenom": "Sophie",
+    "Mandat": "Maire",
+    "Circonscription": "Champeaux",
+    "Departement": "Manche",
+    "Candidat": "BÉKAERT Corinne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CINO",
+    "Prenom": "Georges",
+    "Mandat": "Maire",
+    "Circonscription": "Écaillon",
+    "Departement": "Nord",
+    "Candidat": "CAU Marie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "HAMEL",
+    "Prenom": "Bruno",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Martin-d\u0027Aubigny",
+    "Departement": "Manche",
+    "Candidat": "CAZENEUVE  Bernard",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MASOYÉ",
+    "Prenom": "Eric",
+    "Mandat": "Maire",
+    "Circonscription": "Vy-lès-Rupt",
+    "Departement": "Haute-Saône",
+    "Candidat": "CHAUDOT Michel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ROUIT",
+    "Prenom": "Daniel",
+    "Mandat": "Maire",
+    "Circonscription": "Serres",
+    "Departement": "Hautes-Alpes",
+    "Candidat": "CHICHE Arnaud",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DUCÈNE",
+    "Prenom": "Philippe",
+    "Mandat": "Maire",
+    "Circonscription": "Val de Louyre et Caudeau",
+    "Departement": "Dordogne",
+    "Candidat": "CHICHE Arnaud",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LAGRENAUDIE",
+    "Prenom": "Yannick",
+    "Mandat": "Président d\u0027un EPCI à fiscalité propre",
+    "Circonscription": "CC du Pays de Saint Aulaye",
+    "Departement": "Dordogne",
+    "Candidat": "CHICHE Arnaud",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GAUDRAY",
+    "Prenom": "Alain",
+    "Mandat": "Maire",
+    "Circonscription": "Fragnes-La Loyère",
+    "Departement": "Saône-et-Loire",
+    "Candidat": "CHICHE Arnaud",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BELLINI",
+    "Prenom": "Nans",
+    "Mandat": "Maire",
+    "Circonscription": "Châteauvieux",
+    "Departement": "Var",
+    "Candidat": "CHICHE Arnaud",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MAILLARD",
+    "Prenom": "Christian",
+    "Mandat": "Maire",
+    "Circonscription": "Glay",
+    "Departement": "Doubs",
+    "Candidat": "DELABY Vincent",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "VASSEUR",
+    "Prenom": "Jérôme",
+    "Mandat": "Maire",
+    "Circonscription": "Ly-Fontaine",
+    "Departement": "Aisne",
+    "Candidat": "DUPONT-AIGNAN Nicolas",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MAOUI",
+    "Prenom": "Serge",
+    "Mandat": "Maire",
+    "Circonscription": "Lazer",
+    "Departement": "Hautes-Alpes",
+    "Candidat": "DUPONT-AIGNAN Nicolas",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MONTI",
+    "Prenom": "Bruno",
+    "Mandat": "Maire",
+    "Circonscription": "Cause-de-Clérans",
+    "Departement": "Dordogne",
+    "Candidat": "DUPONT-AIGNAN Nicolas",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MOYNIER",
+    "Prenom": "Arnaud",
+    "Mandat": "Maire",
+    "Circonscription": "Beaulieu",
+    "Departement": "Hérault",
+    "Candidat": "DUPONT-AIGNAN Nicolas",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "FOURRÉ",
+    "Prenom": "Odile",
+    "Mandat": "Maire",
+    "Circonscription": "Ménétréols-sous-Vatan",
+    "Departement": "Indre",
+    "Candidat": "DUPONT-AIGNAN Nicolas",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BESNARD",
+    "Prenom": "Max",
+    "Mandat": "Maire",
+    "Circonscription": "Dierre",
+    "Departement": "Indre-et-Loire",
+    "Candidat": "DUPONT-AIGNAN Nicolas",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CHOPIN",
+    "Prenom": "Gérard",
+    "Mandat": "Maire",
+    "Circonscription": "Theillay",
+    "Departement": "Loir-et-Cher",
+    "Candidat": "DUPONT-AIGNAN Nicolas",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DENIAU",
+    "Prenom": "Michel",
+    "Mandat": "Maire",
+    "Circonscription": "Épuisay",
+    "Departement": "Loir-et-Cher",
+    "Candidat": "DUPONT-AIGNAN Nicolas",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CRIONAY",
+    "Prenom": "Timothée",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Victor-sur-Rhins",
+    "Departement": "Loire",
+    "Candidat": "DUPONT-AIGNAN Nicolas",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "FLACHAT",
+    "Prenom": "Jean-Claude",
+    "Mandat": "Maire",
+    "Circonscription": "La Valla-en-Gier",
+    "Departement": "Loire",
+    "Candidat": "DUPONT-AIGNAN Nicolas",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CLÉROT",
+    "Prenom": "Philippe",
+    "Mandat": "Maire",
+    "Circonscription": "La Feuillie",
+    "Departement": "Manche",
+    "Candidat": "DUPONT-AIGNAN Nicolas",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "FEUARDANT",
+    "Prenom": "Marc",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Bricquebec-en-Cotentin",
+    "Departement": "Manche",
+    "Candidat": "DUPONT-AIGNAN Nicolas",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GARNIER",
+    "Prenom": "Roger",
+    "Mandat": "Maire",
+    "Circonscription": "Montreuil-Poulay",
+    "Departement": "Mayenne",
+    "Candidat": "DUPONT-AIGNAN Nicolas",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CHRISTOPHE",
+    "Prenom": "Gérard",
+    "Mandat": "Maire",
+    "Circonscription": "Foameix-Ornel",
+    "Departement": "Meuse",
+    "Candidat": "DUPONT-AIGNAN Nicolas",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DRION",
+    "Prenom": "Denis",
+    "Mandat": "Maire",
+    "Circonscription": "Niederrœdern",
+    "Departement": "Bas-Rhin",
+    "Candidat": "DUPONT-AIGNAN Nicolas",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "RICHAUD",
+    "Prenom": "Joëlle",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Martin-de-la-Brasque",
+    "Departement": "Vaucluse",
+    "Candidat": "DUPONT-AIGNAN Nicolas",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DE RUGY",
+    "Prenom": "Maxence",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Vendée",
+    "Candidat": "DUPONT-AIGNAN Nicolas",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "MIRE",
+    "Prenom": "Pauline",
+    "Mandat": "Maire",
+    "Circonscription": "Ollainville",
+    "Departement": "Vosges",
+    "Candidat": "DUPONT-AIGNAN Nicolas",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "JUANOLE",
+    "Prenom": "Gisèle",
+    "Mandat": "Maire",
+    "Circonscription": "Lamanère",
+    "Departement": "Pyrénées-Orientales",
+    "Candidat": "EGGER Clara",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "AVOUAC",
+    "Prenom": "Boris",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Laurent",
+    "Departement": "Haute-Savoie",
+    "Candidat": "EGGER Clara",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MARQUENET",
+    "Prenom": "Gérard",
+    "Mandat": "Maire",
+    "Circonscription": "Verneuil-sur-Indre",
+    "Departement": "Indre-et-Loire",
+    "Candidat": "FORTANÉ Jean-Marc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DELVERT",
+    "Prenom": "Jean",
+    "Mandat": "Maire",
+    "Circonscription": "Baladou",
+    "Departement": "Lot",
+    "Candidat": "FORTANÉ Jean-Marc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BLANC",
+    "Prenom": "Pierre",
+    "Mandat": "Maire",
+    "Circonscription": "Villebrumier",
+    "Departement": "Tarn-et-Garonne",
+    "Candidat": "FORTANÉ Jean-Marc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "NADOT",
+    "Prenom": "Sébastien",
+    "Mandat": "Député",
+    "Circonscription": "10ème circonscription",
+    "Departement": "Haute-Garonne",
+    "Candidat": "HERROU Cédric",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LIRUSSI",
+    "Prenom": "Mario",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Aisne",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MASSOT",
+    "Prenom": "Guy",
+    "Mandat": "Maire",
+    "Circonscription": "Vallon-Pont-d\u0027Arc",
+    "Departement": "Ardèche",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CARBONNEL",
+    "Prenom": "Jean-Louis",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Hilaire",
+    "Departement": "Aude",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "SIRE",
+    "Prenom": "Simon",
+    "Mandat": "Maire",
+    "Circonscription": "Brugairolles",
+    "Departement": "Aude",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "AUBERT",
+    "Prenom": "Catherine",
+    "Mandat": "Maire",
+    "Circonscription": "Cuverville",
+    "Departement": "Calvados",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MADELAINE",
+    "Prenom": "Xavier",
+    "Mandat": "Maire",
+    "Circonscription": "Amfreville",
+    "Departement": "Calvados",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "MAUREL",
+    "Prenom": "Magali",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Cantal",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "FOURNIÉ",
+    "Prenom": "Jean-Jacques",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Yrieix-sur-Charente",
+    "Departement": "Charente",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "SIMONIN",
+    "Prenom": "Thibaut",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Charente",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MARCHAIS",
+    "Prenom": "Jean-Luc",
+    "Mandat": "Maire",
+    "Circonscription": "Bussac-sur-Charente",
+    "Departement": "Charente-Maritime",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "SECRESTAT",
+    "Prenom": "Benoît",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Dordogne",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "YUGO",
+    "Prenom": "Aly",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Doubs",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "VEYRI",
+    "Prenom": "Timour",
+    "Mandat": "Conseiller régional",
+    "Circonscription": "Normandie",
+    "Departement": "Eure",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DELORD",
+    "Prenom": "Martin",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Gard",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "KUBALA",
+    "Prenom": "Christian",
+    "Mandat": "Maire",
+    "Circonscription": "Latour",
+    "Departement": "Haute-Garonne",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "GUINAUDIE",
+    "Prenom": "Valérie",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Gironde",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "TOUZEAU",
+    "Prenom": "Jean",
+    "Mandat": "Maire",
+    "Circonscription": "Lormont",
+    "Departement": "Gironde",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MANENC",
+    "Prenom": "Aurélien",
+    "Mandat": "Maire",
+    "Circonscription": "Lunas",
+    "Departement": "Hérault",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "REQUI",
+    "Prenom": "Jean-Luc",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Étienne-de-Gourgas",
+    "Departement": "Hérault",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DUMARTIN",
+    "Prenom": "Denis",
+    "Mandat": "Maire",
+    "Circonscription": "Horsarrieu",
+    "Departement": "Landes",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "TASTET",
+    "Prenom": "Bernard",
+    "Mandat": "Maire",
+    "Circonscription": "Samadet",
+    "Departement": "Landes",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BILIRIT",
+    "Prenom": "Jacques",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Lot-et-Garonne",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BELLIARD",
+    "Prenom": "Jean-Louis",
+    "Mandat": "Conseiller régional",
+    "Circonscription": "Pays De La Loire",
+    "Departement": "Maine-et-Loire",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "NICOLAS",
+    "Prenom": "Victorien",
+    "Mandat": "Maire",
+    "Circonscription": "Verny",
+    "Departement": "Moselle",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "HERTELOUP",
+    "Prenom": "Alain",
+    "Mandat": "Maire",
+    "Circonscription": "Fourchambault",
+    "Departement": "Nièvre",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "CAUCHETEUX",
+    "Prenom": "Francine",
+    "Mandat": "Maire",
+    "Circonscription": "Bavay",
+    "Departement": "Nord",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DELANNOY",
+    "Prenom": "Frédéric",
+    "Mandat": "Maire",
+    "Circonscription": "Hornaing",
+    "Departement": "Nord",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "AKABLI",
+    "Prenom": "Adnane",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Oise",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "MAUGER",
+    "Prenom": "Fabienne",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Orne",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "AIT CHIKHEBBIH",
+    "Prenom": "Fatima",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Pas-de-Calais",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "KUCHCINSKI",
+    "Prenom": "André",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Pas-de-Calais",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "FAVIER",
+    "Prenom": "Bernard",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Priest-des-Champs",
+    "Departement": "Puy-de-Dôme",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "BISTUÉ",
+    "Prenom": "Marie-Lyse",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Pyrénées-Atlantiques",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "CLAVEAU",
+    "Prenom": "Charline",
+    "Mandat": "Conseillère régionale",
+    "Circonscription": "Nouvelle-Aquitaine",
+    "Departement": "Pyrénées-Atlantiques",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "ABADIE",
+    "Prenom": "Joëlle",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Hautes-Pyrénées",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CARRERE",
+    "Prenom": "Gilbert",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Laurent-de-Neste",
+    "Departement": "Hautes-Pyrénées",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "PEYRATO",
+    "Prenom": "Isidore",
+    "Mandat": "Maire",
+    "Circonscription": "Err",
+    "Departement": "Pyrénées-Orientales",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LAGRANGE",
+    "Prenom": "Jean-Claude",
+    "Mandat": "Maire",
+    "Circonscription": "Sanvignes-les-Mines",
+    "Departement": "Saône-et-Loire",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "KARAMANLI",
+    "Prenom": "Marietta",
+    "Mandat": "Députée",
+    "Circonscription": "2ème circonscription",
+    "Departement": "Sarthe",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ROUILLON",
+    "Prenom": "Christophe",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Sarthe",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DELLERIE",
+    "Prenom": "Jacques",
+    "Mandat": "Maire",
+    "Circonscription": "Sandouville",
+    "Departement": "Seine-Maritime",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DUBOST",
+    "Prenom": "Jérôme",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Seine-Maritime",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BAREILLE",
+    "Prenom": "Eric",
+    "Mandat": "Maire",
+    "Circonscription": "Vert-Saint-Denis",
+    "Departement": "Seine-et-Marne",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "FONTUGNE",
+    "Prenom": "Jean-Philippe",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Moret-Loing-et-Orvanne",
+    "Departement": "Seine-et-Marne",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "LEFEVRE",
+    "Prenom": "Laurence",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Vaucluse",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CHENU",
+    "Prenom": "Vincent",
+    "Mandat": "Maire",
+    "Circonscription": "Savigny-Lévescault",
+    "Departement": "Vienne",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "WASZAK",
+    "Prenom": "Reine-Marie",
+    "Mandat": "Conseillère régionale",
+    "Circonscription": "Nouvelle-Aquitaine",
+    "Departement": "Vienne",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "RABETEAU",
+    "Prenom": "Émilie",
+    "Mandat": "Maire",
+    "Circonscription": "Condat-sur-Vienne",
+    "Departement": "Haute-Vienne",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DELACROIX",
+    "Prenom": "Adrien",
+    "Mandat": "Conseiller régional",
+    "Circonscription": "Île-De-France",
+    "Departement": "Seine-Saint-Denis",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "MONROSE",
+    "Prenom": "Michelle",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Martinique",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ODONNAT",
+    "Prenom": "Fernand Bruno",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Martinique",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "SALIBER",
+    "Prenom": "Lucien",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Martinique",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "NAILLET",
+    "Prenom": "Philippe",
+    "Mandat": "Député",
+    "Circonscription": "1ère circonscription",
+    "Departement": "La Réunion",
+    "Candidat": "HIDALGO Anne",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "BONHOMME",
+    "Prenom": "Savanna",
+    "Mandat": "Maire",
+    "Circonscription": "Litteau",
+    "Departement": "Calvados",
+    "Candidat": "JADOT Yannick",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "FAGNI",
+    "Prenom": "Muriel",
+    "Mandat": "Membre de l\u0027Assemblée de Corse",
+    "Circonscription": "",
+    "Departement": "Corse-du-Sud",
+    "Candidat": "JADOT Yannick",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "RAMARD",
+    "Prenom": "Dominique",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Juvat",
+    "Departement": "Côtes-d\u0027Armor",
+    "Candidat": "JADOT Yannick",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "TABART",
+    "Prenom": "Valérie",
+    "Mandat": "Conseillère régionale",
+    "Circonscription": "Bretagne",
+    "Departement": "Côtes-d\u0027Armor",
+    "Candidat": "JADOT Yannick",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ROUAULT",
+    "Prenom": "Romain",
+    "Mandat": "Maire",
+    "Circonscription": "Gasville-Oisème",
+    "Departement": "Eure-et-Loir",
+    "Candidat": "JADOT Yannick",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "WAWRZYNIAK",
+    "Prenom": "Stéphane",
+    "Mandat": "Maire",
+    "Circonscription": "Bois-de-la-Pierre",
+    "Departement": "Haute-Garonne",
+    "Candidat": "JADOT Yannick",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BERNARD",
+    "Prenom": "Stéphane",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Maur",
+    "Departement": "Gers",
+    "Candidat": "JADOT Yannick",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GUILLARD",
+    "Prenom": "Michel",
+    "Mandat": "Maire",
+    "Circonscription": "La Chapelle-Launay",
+    "Departement": "Loire-Atlantique",
+    "Candidat": "JADOT Yannick",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "LAURENT",
+    "Prenom": "Françoise",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Lot-et-Garonne",
+    "Candidat": "JADOT Yannick",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "LEVY",
+    "Prenom": "Fanny",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Marne",
+    "Candidat": "JADOT Yannick",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ANDRE",
+    "Prenom": "Philippe",
+    "Mandat": "Maire",
+    "Circonscription": "Bonnet",
+    "Departement": "Meuse",
+    "Candidat": "JADOT Yannick",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "FAURE",
+    "Prenom": "Bernard",
+    "Mandat": "Maire",
+    "Circonscription": "Beurières",
+    "Departement": "Puy-de-Dôme",
+    "Candidat": "JADOT Yannick",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "CARMONA",
+    "Prenom": "Judith",
+    "Mandat": "Conseillère régionale",
+    "Circonscription": "Occitanie",
+    "Departement": "Pyrénées-Orientales",
+    "Candidat": "JADOT Yannick",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "HEMAIN",
+    "Prenom": "Séverine",
+    "Mandat": "Conseillère métropolitaine de Lyon",
+    "Circonscription": "",
+    "Departement": "Rhône",
+    "Candidat": "JADOT Yannick",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MARION",
+    "Prenom": "Richard",
+    "Mandat": "Conseiller métropolitain de Lyon",
+    "Circonscription": "",
+    "Departement": "Rhône",
+    "Candidat": "JADOT Yannick",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GLEIZES",
+    "Prenom": "Jérôme",
+    "Mandat": "Conseiller de Paris",
+    "Circonscription": "",
+    "Departement": "Paris",
+    "Candidat": "JADOT Yannick",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ROMERO",
+    "Prenom": "Roberto",
+    "Mandat": "Conseiller régional",
+    "Circonscription": "Île-De-France",
+    "Departement": "Hauts-de-Seine",
+    "Candidat": "JADOT Yannick",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DECHY",
+    "Prenom": "François",
+    "Mandat": "Maire",
+    "Circonscription": "Romainville",
+    "Departement": "Seine-Saint-Denis",
+    "Candidat": "JADOT Yannick",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "GIRARDET",
+    "Prenom": "Elodie",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Seine-Saint-Denis",
+    "Candidat": "JADOT Yannick",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "BERNABE",
+    "Prenom": "Kora",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Martinique",
+    "Candidat": "JADOT Yannick",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "MARE IRITI",
+    "Prenom": "Teura",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Polynésie française",
+    "Candidat": "JADOT Yannick",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "OLLIVIER",
+    "Prenom": "Mathilde",
+    "Mandat": "Conseillère à l\u0027Assemblée des Français de l\u0027étranger",
+    "Circonscription": "Allemagne, Autriche, Slovaquie, Slovénie, Suisse",
+    "Departement": "Français de l\u0027étranger",
+    "Candidat": "JADOT Yannick",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "RALLE",
+    "Prenom": "François",
+    "Mandat": "Conseiller à l\u0027Assemblée des Français de l\u0027étranger",
+    "Circonscription": "Péninsule Ibérique",
+    "Departement": "Français de l\u0027étranger",
+    "Candidat": "JADOT Yannick",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BAHU",
+    "Prenom": "Nicolas",
+    "Mandat": "Maire",
+    "Circonscription": "Marizy-Sainte-Geneviève",
+    "Departement": "Aisne",
+    "Candidat": "KAZIB Anasse",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "REGARD",
+    "Prenom": "Elisabeth",
+    "Mandat": "Maire",
+    "Circonscription": "Veuilly-la-Poterie",
+    "Departement": "Aisne",
+    "Candidat": "KAZIB Anasse",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "CANON",
+    "Prenom": "Christelle",
+    "Mandat": "Maire",
+    "Circonscription": "Hauteville",
+    "Departement": "Ardennes",
+    "Candidat": "KAZIB Anasse",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "MALGAT",
+    "Prenom": "Céline",
+    "Mandat": "Maire",
+    "Circonscription": "Montagagne",
+    "Departement": "Ariège",
+    "Candidat": "KAZIB Anasse",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CROMBEZ",
+    "Prenom": "Jean-Christophe",
+    "Mandat": "Maire",
+    "Circonscription": "Rilly-Sainte-Syre",
+    "Departement": "Aube",
+    "Candidat": "KAZIB Anasse",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ORHAND",
+    "Prenom": "Serge",
+    "Mandat": "Maire",
+    "Circonscription": "Larzac",
+    "Departement": "Dordogne",
+    "Candidat": "KAZIB Anasse",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CROMBEZ",
+    "Prenom": "Guillaume",
+    "Mandat": "Maire",
+    "Circonscription": "Franqueville",
+    "Departement": "Eure",
+    "Candidat": "KAZIB Anasse",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LEDUN",
+    "Prenom": "Frédéric",
+    "Mandat": "Maire",
+    "Circonscription": "Dévillac",
+    "Departement": "Lot-et-Garonne",
+    "Candidat": "KAZIB Anasse",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "MONTAUBAN",
+    "Prenom": "Isabelle",
+    "Mandat": "Maire",
+    "Circonscription": "Luc-Armau",
+    "Departement": "Pyrénées-Atlantiques",
+    "Candidat": "KAZIB Anasse",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ESCOULA",
+    "Prenom": "Bernard",
+    "Mandat": "Maire",
+    "Circonscription": "Cazaux-Debat",
+    "Departement": "Hautes-Pyrénées",
+    "Candidat": "KAZIB Anasse",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GRIFFAULT",
+    "Prenom": "Sylvain",
+    "Mandat": "Maire",
+    "Circonscription": "Melle",
+    "Departement": "Deux-Sèvres",
+    "Candidat": "KAZIB Anasse",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "VALIERGUE",
+    "Prenom": "Anne-Benoîte",
+    "Mandat": "Maire",
+    "Circonscription": "Taillefontaine",
+    "Departement": "Aisne",
+    "Candidat": "KOENIG Gaspard",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "MICHEL",
+    "Prenom": "Francine",
+    "Mandat": "Maire",
+    "Circonscription": "Espinasses",
+    "Departement": "Hautes-Alpes",
+    "Candidat": "KOENIG Gaspard",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ROGER",
+    "Prenom": "Jean",
+    "Mandat": "Maire",
+    "Circonscription": "Gardie",
+    "Departement": "Aude",
+    "Candidat": "KOENIG Gaspard",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GIABICONI",
+    "Prenom": "Jean-Charles",
+    "Mandat": "Maire",
+    "Circonscription": "Biguglia",
+    "Departement": "Haute-Corse",
+    "Candidat": "KOENIG Gaspard",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "GUERRINI COLOMBANI",
+    "Prenom": "Anna Maria",
+    "Mandat": "Membre de l\u0027Assemblée de Corse",
+    "Circonscription": "",
+    "Departement": "Haute-Corse",
+    "Candidat": "KOENIG Gaspard",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MASSON",
+    "Prenom": "Philippe",
+    "Mandat": "Maire",
+    "Circonscription": "Brou",
+    "Departement": "Eure-et-Loir",
+    "Candidat": "KOENIG Gaspard",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "PASQUET",
+    "Prenom": "Joël",
+    "Mandat": "Maire",
+    "Circonscription": "Cormeray",
+    "Departement": "Loir-et-Cher",
+    "Candidat": "KOENIG Gaspard",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "SCHERER",
+    "Prenom": "Sylvain",
+    "Mandat": "Maire",
+    "Circonscription": "Frossay",
+    "Departement": "Loire-Atlantique",
+    "Candidat": "KOENIG Gaspard",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "JACOBERT",
+    "Prenom": "William",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Caradec-Trégomel",
+    "Departement": "Morbihan",
+    "Candidat": "KOENIG Gaspard",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "BÉLIARD",
+    "Prenom": "Aleth",
+    "Mandat": "Maire",
+    "Circonscription": "Haute-Épine",
+    "Departement": "Oise",
+    "Candidat": "KOENIG Gaspard",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MATTEI",
+    "Prenom": "Jean-Paul",
+    "Mandat": "Député",
+    "Circonscription": "2ème circonscription",
+    "Departement": "Pyrénées-Atlantiques",
+    "Candidat": "KOENIG Gaspard",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "HERVÉ",
+    "Prenom": "Loïc",
+    "Mandat": "Sénateur",
+    "Circonscription": "",
+    "Departement": "Haute-Savoie",
+    "Candidat": "KOENIG Gaspard",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DE LAURENS",
+    "Prenom": "Benoît",
+    "Mandat": "Maire",
+    "Circonscription": "Chapet",
+    "Departement": "Yvelines",
+    "Candidat": "KOENIG Gaspard",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DUBOIS",
+    "Prenom": "Vincent",
+    "Mandat": "Maire",
+    "Circonscription": "Vercourt",
+    "Departement": "Somme",
+    "Candidat": "KOENIG Gaspard",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CALONNE",
+    "Prenom": "Marc",
+    "Mandat": "Maire",
+    "Circonscription": "Cheney",
+    "Departement": "Yonne",
+    "Candidat": "KOENIG Gaspard",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "MALLET",
+    "Prenom": "Amelie",
+    "Mandat": "Conseillère à l\u0027Assemblée des Français de l\u0027étranger",
+    "Circonscription": "Europe du Nord",
+    "Departement": "Français de l\u0027étranger",
+    "Candidat": "KOENIG Gaspard",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BAZIN-KRETZSCHMAR",
+    "Prenom": "Didier",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Pierre-Aigle",
+    "Departement": "Aisne",
+    "Candidat": "KUZMANOVIC Georges",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MAUNOURY",
+    "Prenom": "Hervé",
+    "Mandat": "Maire",
+    "Circonscription": "Falaise",
+    "Departement": "Calvados",
+    "Candidat": "KUZMANOVIC Georges",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GARNAVAULT",
+    "Prenom": "Philippe",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Cirgues-sur-Couze",
+    "Departement": "Puy-de-Dôme",
+    "Candidat": "KUZMANOVIC Georges",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GILLAUX",
+    "Prenom": "Pascal",
+    "Mandat": "Maire",
+    "Circonscription": "Fromelennes",
+    "Departement": "Ardennes",
+    "Candidat": "LASSALLE Jean",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LABORIE",
+    "Prenom": "Christophe",
+    "Mandat": "Maire",
+    "Circonscription": "Cornus",
+    "Departement": "Aveyron",
+    "Candidat": "LASSALLE Jean",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "PORQUET",
+    "Prenom": "Francis Kleber Aime",
+    "Mandat": "Maire",
+    "Circonscription": "Beaulieu-sur-Sonnette",
+    "Departement": "Charente",
+    "Candidat": "LASSALLE Jean",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "MOSCA",
+    "Prenom": "Paula",
+    "Mandat": "Membre de l\u0027Assemblée de Corse",
+    "Circonscription": "",
+    "Departement": "Corse-du-Sud",
+    "Candidat": "LASSALLE Jean",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "VALDRIGHI",
+    "Prenom": "Hervé",
+    "Mandat": "Membre de l\u0027Assemblée de Corse",
+    "Circonscription": "",
+    "Departement": "Haute-Corse",
+    "Candidat": "LASSALLE Jean",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LE GOUX",
+    "Prenom": "Jean-Pierre",
+    "Mandat": "Maire",
+    "Circonscription": "Lanrodec",
+    "Departement": "Côtes-d\u0027Armor",
+    "Candidat": "LASSALLE Jean",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GAILLOT",
+    "Prenom": "Michel",
+    "Mandat": "Maire",
+    "Circonscription": "Montferrand-le-Château",
+    "Departement": "Doubs",
+    "Candidat": "LASSALLE Jean",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DAVEZAC",
+    "Prenom": "Alain",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Frajou",
+    "Departement": "Haute-Garonne",
+    "Candidat": "LASSALLE Jean",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "ESPERON",
+    "Prenom": "Patricia",
+    "Mandat": "Maire",
+    "Circonscription": "Larroque-sur-l\u0027Osse",
+    "Departement": "Gers",
+    "Candidat": "LASSALLE Jean",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LURO",
+    "Prenom": "Christian",
+    "Mandat": "Maire",
+    "Circonscription": "Blousson-Sérian",
+    "Departement": "Gers",
+    "Candidat": "LASSALLE Jean",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "TERRAIN",
+    "Prenom": "Christophe",
+    "Mandat": "Maire",
+    "Circonscription": "Riscle",
+    "Departement": "Gers",
+    "Candidat": "LASSALLE Jean",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "DALLA-LONGA",
+    "Prenom": "Marie-France",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Ferme",
+    "Departement": "Gironde",
+    "Candidat": "LASSALLE Jean",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "SALANIÉ",
+    "Prenom": "Pascal",
+    "Mandat": "Maire",
+    "Circonscription": "Anglars-Nozac",
+    "Departement": "Lot",
+    "Candidat": "LASSALLE Jean",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BEZOS",
+    "Prenom": "Jérémie",
+    "Mandat": "Maire",
+    "Circonscription": "Antagnac",
+    "Departement": "Lot-et-Garonne",
+    "Candidat": "LASSALLE Jean",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "HUSSON",
+    "Prenom": "Marina",
+    "Mandat": "Maire",
+    "Circonscription": "Belles-Forêts",
+    "Departement": "Moselle",
+    "Candidat": "LASSALLE Jean",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BACQ",
+    "Prenom": "Lucien",
+    "Mandat": "Maire",
+    "Circonscription": "Jailly",
+    "Departement": "Nièvre",
+    "Candidat": "LASSALLE Jean",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GENTIL",
+    "Prenom": "Christian",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Saulge",
+    "Departement": "Nièvre",
+    "Candidat": "LASSALLE Jean",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LASSALLE",
+    "Prenom": "Jean",
+    "Mandat": "Maire",
+    "Circonscription": "Léren",
+    "Departement": "Pyrénées-Atlantiques",
+    "Candidat": "LASSALLE Jean",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "OÇAFRAIN",
+    "Prenom": "Michel",
+    "Mandat": "Maire",
+    "Circonscription": "Banca",
+    "Departement": "Pyrénées-Atlantiques",
+    "Candidat": "LASSALLE Jean",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "RODRIGUES",
+    "Prenom": "Charles",
+    "Mandat": "Maire",
+    "Circonscription": "Péré",
+    "Departement": "Hautes-Pyrénées",
+    "Candidat": "LASSALLE Jean",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BREGEAUD",
+    "Prenom": "Laurent",
+    "Mandat": "Maire",
+    "Circonscription": "Azat-le-Ris",
+    "Departement": "Haute-Vienne",
+    "Candidat": "LASSALLE Jean",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "NICOLAS",
+    "Prenom": "Pascal",
+    "Mandat": "Maire",
+    "Circonscription": "Ameuvelle",
+    "Departement": "Vosges",
+    "Candidat": "LASSALLE Jean",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "NABETH",
+    "Prenom": "Patrick",
+    "Mandat": "Maire",
+    "Circonscription": "Massieux",
+    "Departement": "Ain",
+    "Candidat": "LE PEN Marine",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "GENSE",
+    "Prenom": "Caroline",
+    "Mandat": "Maire",
+    "Circonscription": "Pithon",
+    "Departement": "Aisne",
+    "Candidat": "LE PEN Marine",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LEONELLI",
+    "Prenom": "Pierre-Paul",
+    "Mandat": "Conseiller régional",
+    "Circonscription": "Provence-Alpes-Cote D\u0027Azur",
+    "Departement": "Alpes-Maritimes",
+    "Candidat": "LE PEN Marine",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BERLOT",
+    "Prenom": "Claude",
+    "Mandat": "Maire",
+    "Circonscription": "Bourguignons",
+    "Departement": "Aube",
+    "Candidat": "LE PEN Marine",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "CLAUDIUS-PETIT",
+    "Prenom": "Anne",
+    "Mandat": "Conseillère régionale",
+    "Circonscription": "Provence-Alpes-Cote D\u0027Azur",
+    "Departement": "Bouches-du-Rhône",
+    "Candidat": "LE PEN Marine",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MUSELIER",
+    "Prenom": "Renaud",
+    "Mandat": "Conseiller régional",
+    "Circonscription": "Provence-Alpes-Cote D\u0027Azur",
+    "Departement": "Bouches-du-Rhône",
+    "Candidat": "LE PEN Marine",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LEDOUX",
+    "Prenom": "Vincent",
+    "Mandat": "Maire",
+    "Circonscription": "Chauffour-sur-Vell",
+    "Departement": "Corrèze",
+    "Candidat": "LE PEN Marine",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LENOIR",
+    "Prenom": "Fernand",
+    "Mandat": "Maire",
+    "Circonscription": "La Harengère",
+    "Departement": "Eure",
+    "Candidat": "LE PEN Marine",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BOSCHER",
+    "Prenom": "Bernard",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Denis-le-Gast",
+    "Departement": "Manche",
+    "Candidat": "LE PEN Marine",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BURGAIN",
+    "Prenom": "Christian",
+    "Mandat": "Maire",
+    "Circonscription": "Villers-le-Sec",
+    "Departement": "Marne",
+    "Candidat": "LE PEN Marine",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "NAGEL",
+    "Prenom": "Jérémy",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Pierremont-sur-Amance",
+    "Departement": "Haute-Marne",
+    "Candidat": "LE PEN Marine",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LACOLOMBE",
+    "Prenom": "Hervé",
+    "Mandat": "Maire",
+    "Circonscription": "Gondrecourt-Aix",
+    "Departement": "Meurthe-et-Moselle",
+    "Candidat": "LE PEN Marine",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "VAILLANT",
+    "Prenom": "Germain",
+    "Mandat": "Maire",
+    "Circonscription": "Roupeldange",
+    "Departement": "Moselle",
+    "Candidat": "LE PEN Marine",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "MUFFAT",
+    "Prenom": "Sophie",
+    "Mandat": "Maire",
+    "Circonscription": "La Côte-d\u0027Arbroz",
+    "Departement": "Haute-Savoie",
+    "Candidat": "LE PEN Marine",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "PONCET",
+    "Prenom": "Christophe",
+    "Mandat": "Maire",
+    "Circonscription": "Nâves-Parmelan",
+    "Departement": "Haute-Savoie",
+    "Candidat": "LE PEN Marine",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "SINTES",
+    "Prenom": "Patrick",
+    "Mandat": "Maire",
+    "Circonscription": "Robion",
+    "Departement": "Vaucluse",
+    "Candidat": "LE PEN Marine",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MARTINEAU",
+    "Prenom": "Bernard",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Sèvremont",
+    "Departement": "Vendée",
+    "Candidat": "LE PEN Marine",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "LALLIER",
+    "Prenom": "Nathalie",
+    "Mandat": "Maire",
+    "Circonscription": "Paray-Vieille-Poste",
+    "Departement": "Essonne",
+    "Candidat": "LE PEN Marine",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GONTHIER",
+    "Prenom": "Dominique",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "La Réunion",
+    "Candidat": "LE PEN Marine",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "TERRIER",
+    "Prenom": "Caroline",
+    "Mandat": "Maire",
+    "Circonscription": "Beynost",
+    "Departement": "Ain",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CALLAY",
+    "Prenom": "Bertrand",
+    "Mandat": "Maire",
+    "Circonscription": "Brancourt-le-Grand",
+    "Departement": "Aisne",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MORLET",
+    "Prenom": "Vincent",
+    "Mandat": "Maire",
+    "Circonscription": "Crécy-au-Mont",
+    "Departement": "Aisne",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "RAMPELBERG",
+    "Prenom": "François",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Aisne",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ROSELEUX",
+    "Prenom": "Jean-Paul",
+    "Mandat": "Maire",
+    "Circonscription": "Fère-en-Tardenois",
+    "Departement": "Aisne",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "AUDRAN",
+    "Prenom": "Michel",
+    "Mandat": "Maire",
+    "Circonscription": "Aiglun",
+    "Departement": "Alpes-de-Haute-Provence",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "JACQUES",
+    "Prenom": "Elisabeth",
+    "Mandat": "Maire",
+    "Circonscription": "La Condamine-Châtelard",
+    "Departement": "Alpes-de-Haute-Provence",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LAMARY",
+    "Prenom": "Bernard",
+    "Mandat": "Maire",
+    "Circonscription": "Lorp-Sentaraille",
+    "Departement": "Ariège",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DESCHARMES",
+    "Prenom": "Dominique",
+    "Mandat": "Maire",
+    "Circonscription": "Jessains",
+    "Departement": "Aube",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "RIGOLLOT",
+    "Prenom": "Marie-Noëlle",
+    "Mandat": "Maire",
+    "Circonscription": "Baroville",
+    "Departement": "Aube",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ZAMMIT",
+    "Prenom": "Frédéric",
+    "Mandat": "Maire",
+    "Circonscription": "La Fosse-Corduan",
+    "Departement": "Aube",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "WOROU",
+    "Prenom": "Simon",
+    "Mandat": "Maire",
+    "Circonscription": "Sainte-Juliette-sur-Viaur",
+    "Departement": "Aveyron",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BONHOMME",
+    "Prenom": "André",
+    "Mandat": "Maire",
+    "Circonscription": "Polminhac",
+    "Departement": "Cantal",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BORIE",
+    "Prenom": "Patrick",
+    "Mandat": "Maire",
+    "Circonscription": "Marthon",
+    "Departement": "Charente",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "NAUDIN-BERTHIER",
+    "Prenom": "Bruno",
+    "Mandat": "Maire",
+    "Circonscription": "Bonneuil",
+    "Departement": "Charente",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "OSTA AMIGO",
+    "Prenom": "Laurence",
+    "Mandat": "Maire",
+    "Circonscription": "La Tremblade",
+    "Departement": "Charente-Maritime",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BEATRIX",
+    "Prenom": "Olivier",
+    "Mandat": "Maire",
+    "Circonscription": "Germigny-l\u0027Exempt",
+    "Departement": "Cher",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ORLANDI",
+    "Prenom": "François",
+    "Mandat": "Maire",
+    "Circonscription": "Tomino",
+    "Departement": "Haute-Corse",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LEHMANN",
+    "Prenom": "Renaud",
+    "Mandat": "Maire",
+    "Circonscription": "Lux",
+    "Departement": "Côte-d\u0027Or",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "PRIOURET",
+    "Prenom": "Denis",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Quentin-la-Chabanne",
+    "Departement": "Creuse",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "FRETILLERE",
+    "Prenom": "Eric",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Dordogne",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "BERGER",
+    "Prenom": "Yvonne",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Étienne-sous-Bailleul",
+    "Departement": "Eure",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LE NAOUR",
+    "Prenom": "Fabrice",
+    "Mandat": "Maire",
+    "Circonscription": "Chauvincourt-Provemont",
+    "Departement": "Eure",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CHLUDA",
+    "Prenom": "Bernard",
+    "Mandat": "Maire",
+    "Circonscription": "Aujargues",
+    "Departement": "Gard",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "ORTET",
+    "Prenom": "Corinne",
+    "Mandat": "Maire",
+    "Circonscription": "Couret",
+    "Departement": "Haute-Garonne",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "TOUNTEVICH",
+    "Prenom": "Christophe",
+    "Mandat": "Maire",
+    "Circonscription": "Fontenilles",
+    "Departement": "Haute-Garonne",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CLAVIER",
+    "Prenom": "Dominique",
+    "Mandat": "Maire",
+    "Circonscription": "Pujols-sur-Ciron",
+    "Departement": "Gironde",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DUMONTEUIL",
+    "Prenom": "Yvan",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Sulpice-de-Faleyrens",
+    "Departement": "Gironde",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BRETEAU",
+    "Prenom": "Pierre",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Ille-et-Vilaine",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LE BIHAN",
+    "Prenom": "Thierry",
+    "Mandat": "Maire",
+    "Circonscription": "Mordelles",
+    "Departement": "Ille-et-Vilaine",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BOISLAIGUE",
+    "Prenom": "Christian",
+    "Mandat": "Maire",
+    "Circonscription": "Saulnay",
+    "Departement": "Indre",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "CHAIGNEAU",
+    "Prenom": "Martine",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Indre-et-Loire",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LONGO",
+    "Prenom": "Franck",
+    "Mandat": "Maire",
+    "Circonscription": "Fontaine",
+    "Departement": "Isère",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MATHIEU",
+    "Prenom": "Arnaud",
+    "Mandat": "Maire",
+    "Circonscription": "Villard-de-Lans",
+    "Departement": "Isère",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "VIALLATTE",
+    "Prenom": "Régis",
+    "Mandat": "Maire",
+    "Circonscription": "Clonas-sur-Varèze",
+    "Departement": "Isère",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "RAMOS",
+    "Prenom": "Richard",
+    "Mandat": "Député",
+    "Circonscription": "6ème circonscription",
+    "Departement": "Loiret",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "LENFANT",
+    "Prenom": "Dominique",
+    "Mandat": "Maire",
+    "Circonscription": "Rocamadour",
+    "Departement": "Lot",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "COLLOT",
+    "Prenom": "David",
+    "Mandat": "Maire",
+    "Circonscription": "Glannes",
+    "Departement": "Marne",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "COUROT",
+    "Prenom": "Bertrand",
+    "Mandat": "Maire",
+    "Circonscription": "Sainte-Menehould",
+    "Departement": "Marne",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ALLAIN",
+    "Prenom": "Jean-Marc",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Mayenne",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DIETSCH",
+    "Prenom": "François",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Val de Briey",
+    "Departement": "Meurthe-et-Moselle",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MESOT",
+    "Prenom": "Régis",
+    "Mandat": "Maire",
+    "Circonscription": "Lacroix-sur-Meuse",
+    "Departement": "Meuse",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "PENHOUET",
+    "Prenom": "Christine",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Morbihan",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "FRANKE",
+    "Prenom": "Antoine",
+    "Mandat": "Maire",
+    "Circonscription": "Vahl-Ebersing",
+    "Departement": "Moselle",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "HAMM",
+    "Prenom": "Ernest",
+    "Mandat": "Maire",
+    "Circonscription": "Berling",
+    "Departement": "Moselle",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "HAMMOUCHE",
+    "Prenom": "Brahim",
+    "Mandat": "Député",
+    "Circonscription": "8ème circonscription",
+    "Departement": "Moselle",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "CAMAIN",
+    "Prenom": "Anouck",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Nièvre",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BETTIGNIES",
+    "Prenom": "Frédéric",
+    "Mandat": "Maire",
+    "Circonscription": "Glageon",
+    "Departement": "Nord",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CAILLIERET",
+    "Prenom": "Benjamin",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Nord",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DELBAR",
+    "Prenom": "Guillaume",
+    "Mandat": "Maire",
+    "Circonscription": "Roubaix",
+    "Departement": "Nord",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ESCARTIN",
+    "Prenom": "Didier",
+    "Mandat": "Maire",
+    "Circonscription": "Escarmain",
+    "Departement": "Nord",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "FAHEM",
+    "Prenom": "Soraya",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Nord",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GENS",
+    "Prenom": "Eric",
+    "Mandat": "Maire",
+    "Circonscription": "Bourbourg",
+    "Departement": "Nord",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "GRESSIER",
+    "Prenom": "Elisabeth",
+    "Mandat": "Maire",
+    "Circonscription": "Strazeele",
+    "Departement": "Nord",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "THOURET",
+    "Prenom": "Philippe",
+    "Mandat": "Maire",
+    "Circonscription": "Écorcei",
+    "Departement": "Orne",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BOUHIN",
+    "Prenom": "Jean-Michel",
+    "Mandat": "Maire",
+    "Circonscription": "Bayenghem-lès-Éperlecques",
+    "Departement": "Pas-de-Calais",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BERNOS",
+    "Prenom": "Michel",
+    "Mandat": "Maire",
+    "Circonscription": "Jurançon",
+    "Departement": "Pyrénées-Atlantiques",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CRASPAY",
+    "Prenom": "Gilles",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Hautes-Pyrénées",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "HAESSLER",
+    "Prenom": "Christian",
+    "Mandat": "Maire",
+    "Circonscription": "Maisonsgoutte",
+    "Departement": "Bas-Rhin",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "INGWILLER",
+    "Prenom": "Bernard",
+    "Mandat": "Maire",
+    "Circonscription": "Grassendorf",
+    "Departement": "Bas-Rhin",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "JANDER",
+    "Prenom": "Nicolas",
+    "Mandat": "Maire",
+    "Circonscription": "Altkirch",
+    "Departement": "Haut-Rhin",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "MUTH",
+    "Prenom": "Sandra",
+    "Mandat": "Maire",
+    "Circonscription": "Ranspach-le-Bas",
+    "Departement": "Haut-Rhin",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "VOLTZ",
+    "Prenom": "Christian",
+    "Mandat": "Maire",
+    "Circonscription": "Fortschwihr",
+    "Departement": "Haut-Rhin",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CHAMBON",
+    "Prenom": "Pierre",
+    "Mandat": "Conseiller métropolitain de Lyon",
+    "Circonscription": "",
+    "Departement": "Rhône",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "FAIVRE-LACOUR",
+    "Prenom": "Marie-Claire",
+    "Mandat": "Maire",
+    "Circonscription": "Hugier",
+    "Departement": "Haute-Saône",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "PETITJEAN",
+    "Prenom": "Éric",
+    "Mandat": "Maire",
+    "Circonscription": "Froideconche",
+    "Departement": "Haute-Saône",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "NUGUES",
+    "Prenom": "Pierre",
+    "Mandat": "Maire",
+    "Circonscription": "Château",
+    "Departement": "Saône-et-Loire",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "ASSIER",
+    "Prenom": "Yveline",
+    "Mandat": "Maire",
+    "Circonscription": "Les Mées",
+    "Departement": "Sarthe",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "D\u0027AILLIÈRES",
+    "Prenom": "Emmanuel",
+    "Mandat": "Maire",
+    "Circonscription": "La Suze-sur-Sarthe",
+    "Departement": "Sarthe",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "EVRARD",
+    "Prenom": "Nicolas",
+    "Mandat": "Maire",
+    "Circonscription": "Servoz",
+    "Departement": "Haute-Savoie",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "SCHIAPPA",
+    "Prenom": "Marlène",
+    "Mandat": "Conseillère régionale",
+    "Circonscription": "Île-De-France",
+    "Departement": "Paris",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BOUCHART",
+    "Prenom": "François",
+    "Mandat": "Maire",
+    "Circonscription": "Roissy-en-Brie",
+    "Departement": "Seine-et-Marne",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DA SILVA",
+    "Prenom": "Manuel Luis",
+    "Mandat": "Maire",
+    "Circonscription": "Thorigny-sur-Marne",
+    "Departement": "Seine-et-Marne",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "FELIX-BORON",
+    "Prenom": "Séverine",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Fargeau-Ponthierry",
+    "Departement": "Seine-et-Marne",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "HOUDAYER",
+    "Prenom": "Sébastien Serge",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Augustin",
+    "Departement": "Seine-et-Marne",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MOLET",
+    "Prenom": "Franz",
+    "Mandat": "Maire",
+    "Circonscription": "Voulangis",
+    "Departement": "Seine-et-Marne",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CHARNALLET",
+    "Prenom": "Hervé",
+    "Mandat": "Maire",
+    "Circonscription": "Orgeval",
+    "Departement": "Yvelines",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "NIETO",
+    "Prenom": "Rose-Marie",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Deux-Sèvres",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BOST",
+    "Prenom": "Patrick",
+    "Mandat": "Maire",
+    "Circonscription": "Regnière-Écluse",
+    "Departement": "Somme",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "FROIDEVAL",
+    "Prenom": "Honoré",
+    "Mandat": "Maire",
+    "Circonscription": "Authie",
+    "Departement": "Somme",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MASSIAS",
+    "Prenom": "Fabrice",
+    "Mandat": "Maire",
+    "Circonscription": "Maucourt",
+    "Departement": "Somme",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "MORDACQ",
+    "Prenom": "Séverine",
+    "Mandat": "Maire",
+    "Circonscription": "Villers-Faucon",
+    "Departement": "Somme",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "OURLIAC",
+    "Prenom": "Sabine",
+    "Mandat": "Maire",
+    "Circonscription": "Marnaves",
+    "Departement": "Tarn",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "AMRANE",
+    "Prenom": "Christine",
+    "Mandat": "Maire",
+    "Circonscription": "Collobrières",
+    "Departement": "Var",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "TARTARIN",
+    "Prenom": "Yannick",
+    "Mandat": "Maire",
+    "Circonscription": "La Roche-Posay",
+    "Departement": "Vienne",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "VIVION",
+    "Prenom": "Monique",
+    "Mandat": "Maire",
+    "Circonscription": "Basses",
+    "Departement": "Vienne",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "PAURON",
+    "Prenom": "Eric",
+    "Mandat": "Maire",
+    "Circonscription": "Champignelles",
+    "Departement": "Yonne",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ANDRÉ",
+    "Prenom": "Héric",
+    "Mandat": "Maire",
+    "Circonscription": "Vieux-Fort",
+    "Departement": "Guadeloupe",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BARDAIL",
+    "Prenom": "Jean",
+    "Mandat": "Maire",
+    "Circonscription": "Morne-à-l\u0027Eau",
+    "Departement": "Guadeloupe",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DELTA",
+    "Prenom": "Edouard",
+    "Mandat": "Maire",
+    "Circonscription": "Anse-Bertrand",
+    "Departement": "Guadeloupe",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "FRANCISQUE",
+    "Prenom": "Jean-Louis",
+    "Mandat": "Maire",
+    "Circonscription": "Trois-Rivières",
+    "Departement": "Guadeloupe",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "LERUS",
+    "Prenom": "Chantal",
+    "Mandat": "Conseillère régionale",
+    "Circonscription": "Guadeloupe",
+    "Departement": "Guadeloupe",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "PELAGE",
+    "Prenom": "Camille",
+    "Mandat": "Conseiller régional",
+    "Circonscription": "Guadeloupe",
+    "Departement": "Guadeloupe",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CLEMENTE",
+    "Prenom": "Luc Louison",
+    "Mandat": "Maire",
+    "Circonscription": "Schœlcher",
+    "Departement": "Martinique",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BENTH",
+    "Prenom": "Albéric",
+    "Mandat": "Maire",
+    "Circonscription": "Mana",
+    "Departement": "Guyane",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "GEORGES",
+    "Prenom": "Léda",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Guyane",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "SMOCK",
+    "Prenom": "Serge",
+    "Mandat": "Maire",
+    "Circonscription": "Matoury",
+    "Departement": "Guyane",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ABDALLAH",
+    "Prenom": "Houssamoudine",
+    "Mandat": "Maire",
+    "Circonscription": "Sada",
+    "Departement": "Mayotte",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BAMCOLO",
+    "Prenom": "Assani Saindou",
+    "Mandat": "Maire",
+    "Circonscription": "Koungou",
+    "Departement": "Mayotte",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "AMARU",
+    "Prenom": "Patricia",
+    "Mandat": "Maire",
+    "Circonscription": "Tahaa",
+    "Departement": "Polynésie française",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CHEOU",
+    "Prenom": "Ronald Dit Kati",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Huahine",
+    "Departement": "Polynésie française",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CHONG",
+    "Prenom": "Claude Dit Coro",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Huahine",
+    "Departement": "Polynésie française",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DROLLET",
+    "Prenom": "John Antonio Tefa",
+    "Mandat": "Maire",
+    "Circonscription": "Manihi",
+    "Departement": "Polynésie française",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "EBB",
+    "Prenom": "Moïse",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Taputapuatea",
+    "Departement": "Polynésie française",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "HAITI",
+    "Prenom": "Nicolas",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Nuku-Hiva",
+    "Departement": "Polynésie française",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "KATUPA",
+    "Prenom": "Yvonne",
+    "Mandat": "Maire déléguée d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Nuku-Hiva",
+    "Departement": "Polynésie française",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "KAUTAI",
+    "Prenom": "Benoît",
+    "Mandat": "Maire",
+    "Circonscription": "Nuku-Hiva",
+    "Departement": "Polynésie française",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LEMAIRE",
+    "Prenom": "Gaston",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Huahine",
+    "Departement": "Polynésie française",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LISAN",
+    "Prenom": "Marcelin Dit Titi",
+    "Mandat": "Maire",
+    "Circonscription": "Huahine",
+    "Departement": "Polynésie française",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "POMARE-TIXIER",
+    "Prenom": "Yvannah",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Polynésie française",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "REID",
+    "Prenom": "Roland",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Manihi",
+    "Departement": "Polynésie française",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "TAMA",
+    "Prenom": "Marc",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Tahaa",
+    "Departement": "Polynésie française",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "TAURAATUA ÉPOUSE SAINT-SAËNS",
+    "Prenom": "Charline",
+    "Mandat": "Maire déléguée d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Taiarapu-Ouest",
+    "Departement": "Polynésie française",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "TEHIHIRA ÉP ITCHNER",
+    "Prenom": "Edna",
+    "Mandat": "Maire déléguée d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Huahine",
+    "Departement": "Polynésie française",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "TEIVA",
+    "Prenom": "Diana",
+    "Mandat": "Maire déléguée d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Fakarava",
+    "Departement": "Polynésie française",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "TEIVA ÉP VEAU",
+    "Prenom": "Eugénie Dite Fati",
+    "Mandat": "Maire déléguée d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Huahine",
+    "Departement": "Polynésie française",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "TEMEHARO",
+    "Prenom": "Gyle",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Huahine",
+    "Departement": "Polynésie française",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "TEPA",
+    "Prenom": "Eremoana",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Huahine",
+    "Departement": "Polynésie française",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "MANUOHALALO",
+    "Prenom": "Magali",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Nouvelle-Calédonie",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "PEYRONNET",
+    "Prenom": "Léon-Joseph",
+    "Mandat": "Maire",
+    "Circonscription": "Moindou",
+    "Departement": "Nouvelle-Calédonie",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "CHAAYA",
+    "Prenom": "Nadia",
+    "Mandat": "Conseillère à l\u0027Assemblée des Français de l\u0027étranger",
+    "Circonscription": "Asie centrale et Moyen-Orient",
+    "Departement": "Français de l\u0027étranger",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "METAYER",
+    "Prenom": "Catherine",
+    "Mandat": "Présidente du conseil consulaire",
+    "Circonscription": "Andorre",
+    "Departement": "Français de l\u0027étranger",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "OUÉDRAOGO",
+    "Prenom": "Ousmane",
+    "Mandat": "Président du conseil consulaire",
+    "Circonscription": "Burkina Faso",
+    "Departement": "Français de l\u0027étranger",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "YENBOU",
+    "Prenom": "Salima",
+    "Mandat": "Représentante française au Parlement européen",
+    "Circonscription": "",
+    "Departement": "Parlement européen",
+    "Candidat": "MACRON Emmanuel",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "TANQUEREL",
+    "Prenom": "Géraldine",
+    "Mandat": "Maire déléguée d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Mézidon Vallée d\u0027Auge",
+    "Departement": "Calvados",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LANGLADE",
+    "Prenom": "Serge",
+    "Mandat": "Maire",
+    "Circonscription": "Beyssac",
+    "Departement": "Corrèze",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BIANCUCCI",
+    "Prenom": "Jean",
+    "Mandat": "Membre de l\u0027Assemblée de Corse",
+    "Circonscription": "",
+    "Departement": "Corse-du-Sud",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "PANZANI",
+    "Prenom": "Jean-Paul",
+    "Mandat": "Membre de l\u0027Assemblée de Corse",
+    "Circonscription": "",
+    "Departement": "Corse-du-Sud",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "GUIDONI-DENSARI",
+    "Prenom": "Frédérique",
+    "Mandat": "Membre de l\u0027Assemblée de Corse",
+    "Circonscription": "",
+    "Departement": "Haute-Corse",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "PAOLINI",
+    "Prenom": "Julien",
+    "Mandat": "Maire",
+    "Circonscription": "Pietroso",
+    "Departement": "Haute-Corse",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CHABROL",
+    "Prenom": "Maurice",
+    "Mandat": "Maire",
+    "Circonscription": "Le Bourdeix",
+    "Departement": "Dordogne",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "GAUTHIER-PACOUD",
+    "Prenom": "Sandrine",
+    "Mandat": "Maire",
+    "Circonscription": "Mesnois",
+    "Departement": "Jura",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BONNET",
+    "Prenom": "Grégory",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Puy-de-Dôme",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "OBRY",
+    "Prenom": "Michel",
+    "Mandat": "Maire",
+    "Circonscription": "Limetz-Villez",
+    "Departement": "Yvelines",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "STEIL",
+    "Prenom": "Jérémie",
+    "Mandat": "Maire",
+    "Circonscription": "Vaour",
+    "Departement": "Tarn",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BEVERINA",
+    "Prenom": "Jean Luc",
+    "Mandat": "Maire",
+    "Circonscription": "Senones",
+    "Departement": "Vosges",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ZINAOUI",
+    "Prenom": "Ramzi",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Val-d\u0027Oise",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MICHELY",
+    "Prenom": "Fabert",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Guadeloupe",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "RAUZDUEL",
+    "Prenom": "Rosan",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Guadeloupe",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DINAL",
+    "Prenom": "David",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Martinique",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DUFEAL",
+    "Prenom": "Eric",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Martinique",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "LIMIER",
+    "Prenom": "Nadia Emilienne",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Martinique",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MARIE-REINE",
+    "Prenom": "Olivier",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Martinique",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "RENE-CORAIL",
+    "Prenom": "Arnaud",
+    "Mandat": "Maire",
+    "Circonscription": "Les Trois-Îlets",
+    "Departement": "Martinique",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ZOBDA",
+    "Prenom": "David",
+    "Mandat": "Maire",
+    "Circonscription": "Le Lamentin",
+    "Departement": "Martinique",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DEYE",
+    "Prenom": "Raymond",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Guyane",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "EDWIN",
+    "Prenom": "Moïse",
+    "Mandat": "Maire",
+    "Circonscription": "Apatou",
+    "Departement": "Guyane",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LECHAT-VEGA",
+    "Prenom": "Thibault",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Guyane",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "THERESE",
+    "Prenom": "Jocelyn",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Guyane",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BADAT",
+    "Prenom": "Rahfick",
+    "Mandat": "Conseiller régional",
+    "Circonscription": "La Réunion",
+    "Departement": "La Réunion",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "SITOUZE",
+    "Prenom": "Céline",
+    "Mandat": "Conseillère régionale",
+    "Circonscription": "La Réunion",
+    "Departement": "La Réunion",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "BOUANOU",
+    "Prenom": "Ivana",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Nouvelle-Calédonie",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "FALAEO",
+    "Prenom": "Veylma",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Nouvelle-Calédonie",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "HEO",
+    "Prenom": "Nadia",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Nouvelle-Calédonie",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MAPOU",
+    "Prenom": "Louis",
+    "Mandat": "Président du gouvernement de la Nouvelle-Calédonie",
+    "Circonscription": "",
+    "Departement": "Nouvelle-Calédonie",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "TUKUMULI",
+    "Prenom": "Milakulo",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Nouvelle-Calédonie",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LAPLACE",
+    "Prenom": "Frédéric",
+    "Mandat": "Président du conseil consulaire",
+    "Circonscription": "Brésil - 3e circonscription",
+    "Departement": "Français de l\u0027étranger",
+    "Candidat": "MÉLENCHON Jean-Luc",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "SARONI",
+    "Prenom": "Patrick",
+    "Mandat": "Maire",
+    "Circonscription": "Le Plantay",
+    "Departement": "Ain",
+    "Candidat": "MIGUET Nicolas",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BRECIN",
+    "Prenom": "Jean-Yves",
+    "Mandat": "Maire",
+    "Circonscription": "Dialan sur Chaîne",
+    "Departement": "Calvados",
+    "Candidat": "MIGUET Nicolas",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DIETRICH",
+    "Prenom": "Christophe",
+    "Mandat": "Maire",
+    "Circonscription": "Laigneville",
+    "Departement": "Oise",
+    "Candidat": "MIGUET Nicolas",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LEMOINE",
+    "Prenom": "Christian",
+    "Mandat": "Maire",
+    "Circonscription": "Caramany",
+    "Departement": "Pyrénées-Orientales",
+    "Candidat": "MIGUET Nicolas",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "JAIRE",
+    "Prenom": "Eric",
+    "Mandat": "Maire",
+    "Circonscription": "Boulancourt",
+    "Departement": "Seine-et-Marne",
+    "Candidat": "MIGUET Nicolas",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DUNAND",
+    "Prenom": "Patrice",
+    "Mandat": "Conseiller régional",
+    "Circonscription": "Auvergne-Rhône-Alpes",
+    "Departement": "Ain",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CORDIER",
+    "Prenom": "Pascal",
+    "Mandat": "Maire",
+    "Circonscription": "Fluquières",
+    "Departement": "Aisne",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "LEBEAU",
+    "Prenom": "Véronique",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Aisne",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "COLOMBERO",
+    "Prenom": "Stéphanie",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Alpes-de-Haute-Provence",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "BINEAU",
+    "Prenom": "Gabrielle",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Alpes-Maritimes",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GIBERTI",
+    "Prenom": "Roland",
+    "Mandat": "Maire",
+    "Circonscription": "Gémenos",
+    "Departement": "Bouches-du-Rhône",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LECLERC",
+    "Prenom": "Sébastien",
+    "Mandat": "Maire",
+    "Circonscription": "Lisieux",
+    "Departement": "Calvados",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "MARIVINGT",
+    "Prenom": "Alexandra",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Calvados",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "WILLAUME",
+    "Prenom": "Ludwig",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Calvados",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BONY",
+    "Prenom": "Arnaud",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Ally",
+    "Departement": "Cantal",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "BEAUGENDRE",
+    "Prenom": "Marie Henriette",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Charente",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LAURENT",
+    "Prenom": "Daniel",
+    "Mandat": "Sénateur",
+    "Circonscription": "",
+    "Departement": "Charente-Maritime",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MOREAU",
+    "Prenom": "Guy",
+    "Mandat": "Maire",
+    "Circonscription": "Chavannes",
+    "Departement": "Cher",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "VIDAL",
+    "Prenom": "Marie-Laure",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Corrèze",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MARECHAL",
+    "Prenom": "Philippe",
+    "Mandat": "Maire",
+    "Circonscription": "Amancey",
+    "Departement": "Doubs",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BRUNET",
+    "Prenom": "Michel",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Drôme",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CORNILLET",
+    "Prenom": "Julien",
+    "Mandat": "Conseiller régional",
+    "Circonscription": "Auvergne-Rhône-Alpes",
+    "Departement": "Drôme",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "HORTAIL",
+    "Prenom": "Gérard",
+    "Mandat": "Maire",
+    "Circonscription": "Solérieux",
+    "Departement": "Drôme",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "SOULIGNAC",
+    "Prenom": "Franck",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Drôme",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BERTHELIER",
+    "Prenom": "Christian",
+    "Mandat": "Maire",
+    "Circonscription": "Tréon",
+    "Departement": "Eure-et-Loir",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "LE BIHAN",
+    "Prenom": "Aliette",
+    "Mandat": "Maire",
+    "Circonscription": "Anet",
+    "Departement": "Eure-et-Loir",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "TACHAT",
+    "Prenom": "Mickaël",
+    "Mandat": "Maire",
+    "Circonscription": "Mittainvilliers-Vérigny",
+    "Departement": "Eure-et-Loir",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "SARTRE",
+    "Prenom": "Huguette",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Gard",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BRON",
+    "Prenom": "Franck",
+    "Mandat": "Maire",
+    "Circonscription": "Pont-de-Chéruy",
+    "Departement": "Isère",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CHABERT",
+    "Prenom": "Gilles",
+    "Mandat": "Conseiller régional",
+    "Circonscription": "Auvergne-Rhône-Alpes",
+    "Departement": "Isère",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "VENTURINI",
+    "Prenom": "Martine",
+    "Mandat": "Conseillère régionale",
+    "Circonscription": "Auvergne-Rhône-Alpes",
+    "Departement": "Isère",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "IVANES",
+    "Prenom": "Cédric",
+    "Mandat": "Maire",
+    "Circonscription": "Ougney",
+    "Departement": "Jura",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "CORDIER",
+    "Prenom": "Anne-Marie",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Loire-Atlantique",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "PORCHER",
+    "Prenom": "Andréa",
+    "Mandat": "Conseillère régionale",
+    "Circonscription": "Pays De La Loire",
+    "Departement": "Loire-Atlantique",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "KASSA",
+    "Prenom": "Wondwossen",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Maurice-sur-Aveyron",
+    "Departement": "Loiret",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CHALOPIN",
+    "Prenom": "Philippe",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Maine-et-Loire",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DELAUNAY",
+    "Prenom": "Antoine",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Manche",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DUPONT",
+    "Prenom": "Carles",
+    "Mandat": "Maire",
+    "Circonscription": "Beuzeville-la-Bastille",
+    "Departement": "Manche",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "FORTIN LARIVIERE",
+    "Prenom": "Axel",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Manche",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LAURENT",
+    "Prenom": "Cyril",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Marne",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MOITTIÉ",
+    "Prenom": "Benoît",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Marne",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "OLIVEIRA-CRUZ",
+    "Prenom": "Olivier",
+    "Mandat": "Maire",
+    "Circonscription": "Le Montsaugeonnais",
+    "Departement": "Haute-Marne",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BOILEAU",
+    "Prenom": "Pierre",
+    "Mandat": "Maire",
+    "Circonscription": "Ludres",
+    "Departement": "Meurthe-et-Moselle",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GODARD",
+    "Prenom": "Alain",
+    "Mandat": "Maire",
+    "Circonscription": "Gémonville",
+    "Departement": "Meurthe-et-Moselle",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "TAVERNIER",
+    "Prenom": "Jean-Jacques",
+    "Mandat": "Maire",
+    "Circonscription": "Mont-l\u0027Étroit",
+    "Departement": "Meurthe-et-Moselle",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "TREVILLOT",
+    "Prenom": "Xavier",
+    "Mandat": "Maire",
+    "Circonscription": "Lorey",
+    "Departement": "Meurthe-et-Moselle",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "TONNER",
+    "Prenom": "Marie-Christine",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Meuse",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "CHENAIS",
+    "Prenom": "Myriam",
+    "Mandat": "Maire",
+    "Circonscription": "Persquen",
+    "Departement": "Morbihan",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BROGNIART",
+    "Prenom": "Sébastien",
+    "Mandat": "Maire",
+    "Circonscription": "Wambrechies",
+    "Departement": "Nord",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DEMORY",
+    "Prenom": "Thibaud",
+    "Mandat": "Maire",
+    "Circonscription": "Étavigny",
+    "Departement": "Oise",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "LEVESQUE",
+    "Prenom": "Sophie",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Oise",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "SAVALE",
+    "Prenom": "Anthony",
+    "Mandat": "Maire",
+    "Circonscription": "Chemilli",
+    "Departement": "Orne",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MERCIER",
+    "Prenom": "Alain",
+    "Mandat": "Maire",
+    "Circonscription": "Nébouzat",
+    "Departement": "Puy-de-Dôme",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "JOURET",
+    "Prenom": "Christian",
+    "Mandat": "Maire",
+    "Circonscription": "Oléac-Debat",
+    "Departement": "Hautes-Pyrénées",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BRUPPACHER",
+    "Prenom": "Frédéric",
+    "Mandat": "Maire",
+    "Circonscription": "Waldhambach",
+    "Departement": "Bas-Rhin",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GOETZ",
+    "Prenom": "Albert",
+    "Mandat": "Maire",
+    "Circonscription": "Bergbieten",
+    "Departement": "Bas-Rhin",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BIDOYEN",
+    "Prenom": "Bruno",
+    "Mandat": "Maire",
+    "Circonscription": "Quincey",
+    "Departement": "Haute-Saône",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "DAMY-DECHAMBENOIT",
+    "Prenom": "Nathalie",
+    "Mandat": "Maire",
+    "Circonscription": "Damerey",
+    "Departement": "Saône-et-Loire",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MICHOUX",
+    "Prenom": "Eric",
+    "Mandat": "Maire",
+    "Circonscription": "Épervans",
+    "Departement": "Saône-et-Loire",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "PELLEVAT",
+    "Prenom": "Cyril",
+    "Mandat": "Sénateur",
+    "Circonscription": "",
+    "Departement": "Haute-Savoie",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BERNARD",
+    "Prenom": "René-François",
+    "Mandat": "Conseiller de Paris",
+    "Circonscription": "",
+    "Departement": "Paris",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CANAL",
+    "Prenom": "Grégory",
+    "Mandat": "Conseiller de Paris",
+    "Circonscription": "",
+    "Departement": "Paris",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "VIRY",
+    "Prenom": "Patrick",
+    "Mandat": "Conseiller de Paris",
+    "Circonscription": "",
+    "Departement": "Paris",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DELPECH",
+    "Prenom": "Laurent",
+    "Mandat": "Maire",
+    "Circonscription": "Dampmart",
+    "Departement": "Seine-et-Marne",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DE BOURROUSSE",
+    "Prenom": "Arnaud",
+    "Mandat": "Maire",
+    "Circonscription": "Carrières-sur-Seine",
+    "Departement": "Yvelines",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MARCHESSEAU",
+    "Prenom": "Roger",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Plaine-d\u0027Argenson",
+    "Departement": "Deux-Sèvres",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DOMISE",
+    "Prenom": "Martin",
+    "Mandat": "Conseiller régional",
+    "Circonscription": "Hauts-De-France",
+    "Departement": "Somme",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "LHOMME",
+    "Prenom": "Brigitte",
+    "Mandat": "Conseillère régionale",
+    "Circonscription": "Hauts-De-France",
+    "Departement": "Somme",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "VEVE",
+    "Prenom": "Gilles",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Didier",
+    "Departement": "Vaucluse",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GUERIN",
+    "Prenom": "Guillaume",
+    "Mandat": "Président d\u0027un EPCI à fiscalité propre",
+    "Circonscription": "CU Limoges Métropole",
+    "Departement": "Haute-Vienne",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "BOURDON",
+    "Prenom": "Claude",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Vosges",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "HERBÉ",
+    "Prenom": "Patrice",
+    "Mandat": "Maire",
+    "Circonscription": "Moyemont",
+    "Departement": "Vosges",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BOURRAS",
+    "Prenom": "Guy",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Julien-du-Sault",
+    "Departement": "Yonne",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DORTE",
+    "Prenom": "Grégory",
+    "Mandat": "Maire",
+    "Circonscription": "Pont-sur-Yonne",
+    "Departement": "Yonne",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "JOAQUINA",
+    "Prenom": "Isabelle",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Yonne",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "HOTTLET",
+    "Prenom": "Jean-Louis",
+    "Mandat": "Maire",
+    "Circonscription": "Grosne",
+    "Departement": "Territoire de Belfort",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DA SILVA",
+    "Prenom": "Victor",
+    "Mandat": "Maire",
+    "Circonscription": "Villebon-sur-Yvette",
+    "Departement": "Essonne",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "MUSSOTTE-GUEDJ",
+    "Prenom": "Catherine",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Val-de-Marne",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DECLERCK",
+    "Prenom": "Mickaël",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Val-d\u0027Oise",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "HOARAU",
+    "Prenom": "Denise",
+    "Mandat": "Conseillère régionale",
+    "Circonscription": "La Réunion",
+    "Departement": "La Réunion",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "SIGISMEAU",
+    "Prenom": "Béatrice",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "La Réunion",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MDERE",
+    "Prenom": "Salime",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Mayotte",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BERNARD",
+    "Prenom": "Jean-Pierre",
+    "Mandat": "Président du conseil consulaire",
+    "Circonscription": "Etats-Unis - 8e circonscription",
+    "Departement": "Français de l\u0027étranger",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "KAOUK",
+    "Prenom": "Balkis",
+    "Mandat": "Présidente du conseil consulaire",
+    "Circonscription": "Sénégal, Guinée-Bissau, Cap Vert",
+    "Departement": "Français de l\u0027étranger",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "PISCIOTTA",
+    "Prenom": "Christophe",
+    "Mandat": "Président du conseil consulaire",
+    "Circonscription": "Monaco",
+    "Departement": "Français de l\u0027étranger",
+    "Candidat": "PÉCRESSE Valérie",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DESBOIS",
+    "Prenom": "Luc",
+    "Mandat": "Maire",
+    "Circonscription": "Cize",
+    "Departement": "Ain",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GARDIEN",
+    "Prenom": "Serge",
+    "Mandat": "Maire",
+    "Circonscription": "Innimond",
+    "Departement": "Ain",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "ABDOULI",
+    "Prenom": "Marie-Pierre",
+    "Mandat": "Maire",
+    "Circonscription": "Brissy-Hamégicourt",
+    "Departement": "Aisne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "COLPART",
+    "Prenom": "Alain",
+    "Mandat": "Maire",
+    "Circonscription": "Les Septvallons",
+    "Departement": "Aisne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DOUBLET",
+    "Prenom": "Jean-Claude",
+    "Mandat": "Maire",
+    "Circonscription": "Buzancy",
+    "Departement": "Aisne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DUMUR",
+    "Prenom": "Yves",
+    "Mandat": "Maire",
+    "Circonscription": "Grougis",
+    "Departement": "Aisne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GERVAIS",
+    "Prenom": "Jérôme",
+    "Mandat": "Maire",
+    "Circonscription": "Quierzy",
+    "Departement": "Aisne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "HUET",
+    "Prenom": "Michel",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Les Septvallons",
+    "Departement": "Aisne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "KIPRIJANOVSKI",
+    "Prenom": "Dragomir",
+    "Mandat": "Maire",
+    "Circonscription": "Noroy-sur-Ourcq",
+    "Departement": "Aisne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "NIVART",
+    "Prenom": "Pascal",
+    "Mandat": "Maire",
+    "Circonscription": "Grand-Rozoy",
+    "Departement": "Aisne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "POTEAUX",
+    "Prenom": "Christian",
+    "Mandat": "Maire",
+    "Circonscription": "Faverolles",
+    "Departement": "Aisne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GOUIN",
+    "Prenom": "Benoît",
+    "Mandat": "Maire",
+    "Circonscription": "Le Castellet",
+    "Departement": "Alpes-de-Haute-Provence",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "BELVA",
+    "Prenom": "Nathalie",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Genest-de-Beauzon",
+    "Departement": "Ardèche",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CERVANTES",
+    "Prenom": "Jésus",
+    "Mandat": "Maire",
+    "Circonscription": "La Villeneuve-au-Chêne",
+    "Departement": "Aube",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "FRELIN",
+    "Prenom": "Roland",
+    "Mandat": "Maire",
+    "Circonscription": "Villemoiron-en-Othe",
+    "Departement": "Aube",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "BASTOU",
+    "Prenom": "Marielle",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Louis-et-Parahou",
+    "Departement": "Aude",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CHANUT",
+    "Prenom": "Christian",
+    "Mandat": "Maire",
+    "Circonscription": "Vailhourles",
+    "Departement": "Aveyron",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CROS",
+    "Prenom": "Sébastien",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Martin-de-Lenne",
+    "Departement": "Aveyron",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "PAGES-TOUZÉ",
+    "Prenom": "Laurence",
+    "Mandat": "Maire",
+    "Circonscription": "Sainte-Radegonde",
+    "Departement": "Aveyron",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "PANIS",
+    "Prenom": "Patrice",
+    "Mandat": "Maire",
+    "Circonscription": "Lédergues",
+    "Departement": "Aveyron",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DE KONINCK",
+    "Prenom": "Thierry",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Martin-aux-Chartrains",
+    "Departement": "Calvados",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LEFORESTIER",
+    "Prenom": "Michel",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Val de Drôme",
+    "Departement": "Calvados",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MOISSERON",
+    "Prenom": "Stéphane",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Val de Drôme",
+    "Departement": "Calvados",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "AUDOIN",
+    "Prenom": "Charles",
+    "Mandat": "Maire",
+    "Circonscription": "Aubeterre-sur-Dronne",
+    "Departement": "Charente",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LAMBERT",
+    "Prenom": "Jérôme",
+    "Mandat": "Député",
+    "Circonscription": "3ème circonscription",
+    "Departement": "Charente",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "RIMBAULT",
+    "Prenom": "Jean-Claude",
+    "Mandat": "Maire",
+    "Circonscription": "Sury-ès-Bois",
+    "Departement": "Cher",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BRETTE",
+    "Prenom": "Gérard",
+    "Mandat": "Maire",
+    "Circonscription": "Rosiers-d\u0027Égletons",
+    "Departement": "Corrèze",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "TURQUET",
+    "Prenom": "Jean-Claude",
+    "Mandat": "Maire",
+    "Circonscription": "Bassignac-le-Haut",
+    "Departement": "Corrèze",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MARCHETTI",
+    "Prenom": "Etienne",
+    "Mandat": "Maire",
+    "Circonscription": "Barbaggio",
+    "Departement": "Haute-Corse",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ARMBRUSTER",
+    "Prenom": "Jean-François",
+    "Mandat": "Maire",
+    "Circonscription": "Épernay-sous-Gevrey",
+    "Departement": "Côte-d\u0027Or",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "GOURHANT",
+    "Prenom": "Brigitte",
+    "Mandat": "Maire",
+    "Circonscription": "Ploubezre",
+    "Departement": "Côtes-d\u0027Armor",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GUIGNARD",
+    "Prenom": "Thibaut",
+    "Mandat": "Maire",
+    "Circonscription": "Plœuc-L\u0027Hermitage",
+    "Departement": "Côtes-d\u0027Armor",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "FAUGERON",
+    "Prenom": "Guy",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Merd-la-Breuille",
+    "Departement": "Creuse",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "JEANSANNETAS",
+    "Prenom": "Eric",
+    "Mandat": "Sénateur",
+    "Circonscription": "",
+    "Departement": "Creuse",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "DECARPENTRIE",
+    "Prenom": "Françoise",
+    "Mandat": "Maire",
+    "Circonscription": "Négrondes",
+    "Departement": "Dordogne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "RITLEWSKI",
+    "Prenom": "François",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Martin-des-Combes",
+    "Departement": "Dordogne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "RIVIERE",
+    "Prenom": "Sylvie",
+    "Mandat": "Maire",
+    "Circonscription": "Cunèges",
+    "Departement": "Dordogne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ROUSSELY",
+    "Prenom": "Jean-Paul",
+    "Mandat": "Maire",
+    "Circonscription": "Bardou",
+    "Departement": "Dordogne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "SALINIÉ",
+    "Prenom": "Patrick",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-André-d\u0027Allas",
+    "Departement": "Dordogne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "VALLET",
+    "Prenom": "Christian",
+    "Mandat": "Maire",
+    "Circonscription": "La Rivière-Drugeon",
+    "Departement": "Doubs",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "WILLEMIN JEANNIN",
+    "Prenom": "Ingrid",
+    "Mandat": "Maire",
+    "Circonscription": "Longevelle-lès-Russey",
+    "Departement": "Doubs",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "FAURE",
+    "Prenom": "Jean-Luc",
+    "Mandat": "Maire",
+    "Circonscription": "Bouvante",
+    "Departement": "Drôme",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "ANDRIEU",
+    "Prenom": "Marie-Odile",
+    "Mandat": "Maire",
+    "Circonscription": "Villez-sous-Bailleul",
+    "Departement": "Eure",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "BIQUET",
+    "Prenom": "Hélène",
+    "Mandat": "Maire",
+    "Circonscription": "La Haye-Saint-Sylvestre",
+    "Departement": "Eure",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GOSSET",
+    "Prenom": "Michel",
+    "Mandat": "Maire",
+    "Circonscription": "Juignettes",
+    "Departement": "Eure",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LARDEUR",
+    "Prenom": "Eric",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Étienne-du-Vauvray",
+    "Departement": "Eure",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MERCIER",
+    "Prenom": "Paul",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Vexin-sur-Epte",
+    "Departement": "Eure",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CAPERAN",
+    "Prenom": "Alain",
+    "Mandat": "Maire",
+    "Circonscription": "Allainville",
+    "Departement": "Eure-et-Loir",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "EL HAMDI",
+    "Prenom": "Kamel",
+    "Mandat": "Maire",
+    "Circonscription": "Moinville-la-Jeulin",
+    "Departement": "Eure-et-Loir",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LUBOW",
+    "Prenom": "Dominique",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Ange-et-Torçay",
+    "Departement": "Eure-et-Loir",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "RONARC\u0027H",
+    "Prenom": "Philippe",
+    "Mandat": "Maire",
+    "Circonscription": "Pouldreuzic",
+    "Departement": "Finistère",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DE LATOUR",
+    "Prenom": "Henri",
+    "Mandat": "Maire",
+    "Circonscription": "Lasalle",
+    "Departement": "Gard",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "ROUX",
+    "Prenom": "Andrée",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Jean-de-Serres",
+    "Departement": "Gard",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CARCY",
+    "Prenom": "Olivier",
+    "Mandat": "Maire",
+    "Circonscription": "Lourde",
+    "Departement": "Haute-Garonne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CASTELL",
+    "Prenom": "Joseph",
+    "Mandat": "Maire",
+    "Circonscription": "Chaum",
+    "Departement": "Haute-Garonne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DULONG",
+    "Prenom": "Denis",
+    "Mandat": "Maire",
+    "Circonscription": "Drudas",
+    "Departement": "Haute-Garonne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "SAINT-BLANCAT",
+    "Prenom": "Guy",
+    "Mandat": "Maire",
+    "Circonscription": "Lussan-Adeilhac",
+    "Departement": "Haute-Garonne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "VIGNEAUX",
+    "Prenom": "Denise",
+    "Mandat": "Maire",
+    "Circonscription": "Seilhan",
+    "Departement": "Haute-Garonne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "WELTER",
+    "Prenom": "Lionel",
+    "Mandat": "Maire",
+    "Circonscription": "L\u0027Isle-en-Dodon",
+    "Departement": "Haute-Garonne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BLAY",
+    "Prenom": "Jean-Michel",
+    "Mandat": "Maire",
+    "Circonscription": "Pavie",
+    "Departement": "Gers",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "SAMALENS",
+    "Prenom": "Jérôme",
+    "Mandat": "Maire",
+    "Circonscription": "Montégut",
+    "Departement": "Gers",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GALLE",
+    "Prenom": "Christian",
+    "Mandat": "Maire",
+    "Circonscription": "La Chapelle-Saint-Aubert",
+    "Departement": "Ille-et-Vilaine",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "PENHOUET",
+    "Prenom": "Michel",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Lunaire",
+    "Departement": "Ille-et-Vilaine",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "JEUNESSE",
+    "Prenom": "Hervé",
+    "Mandat": "Maire",
+    "Circonscription": "Nuret-le-Ferron",
+    "Departement": "Indre",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "SCHWARTZ",
+    "Prenom": "Wilfried",
+    "Mandat": "Maire",
+    "Circonscription": "La Riche",
+    "Departement": "Indre-et-Loire",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "VIEMONT",
+    "Prenom": "Olivier",
+    "Mandat": "Maire",
+    "Circonscription": "Monnaie",
+    "Departement": "Indre-et-Loire",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DOFFAGNE",
+    "Prenom": "Michel",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Isère",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "STRAPPAZZON",
+    "Prenom": "Gilles",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Isère",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "VALLINI",
+    "Prenom": "André",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Isère",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BEJEAN",
+    "Prenom": "Jean-Pierre",
+    "Mandat": "Maire",
+    "Circonscription": "Ladoye-sur-Seille",
+    "Departement": "Jura",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "FERNOUX-COUTENET",
+    "Prenom": "Gérard",
+    "Mandat": "Maire",
+    "Circonscription": "Rochefort-sur-Nenon",
+    "Departement": "Jura",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LEGLISE",
+    "Prenom": "Pascal",
+    "Mandat": "Maire",
+    "Circonscription": "La Châtelaine",
+    "Departement": "Jura",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "TRONCIN",
+    "Prenom": "Dominique",
+    "Mandat": "Maire",
+    "Circonscription": "Moissey",
+    "Departement": "Jura",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CAZORLA",
+    "Prenom": "Dominique",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Priest-la-Prugne",
+    "Departement": "Loire",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "EXBRAYAT",
+    "Prenom": "Stéphane",
+    "Mandat": "Maire",
+    "Circonscription": "Graix",
+    "Departement": "Loire",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LOUBET",
+    "Prenom": "Cédric",
+    "Mandat": "Maire",
+    "Circonscription": "Planfoy",
+    "Departement": "Loire",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MONTAGNE",
+    "Prenom": "Jean-Philippe",
+    "Mandat": "Maire",
+    "Circonscription": "La Chapelle-en-Lafaye",
+    "Departement": "Loire",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ECHEGUT",
+    "Prenom": "Patrick",
+    "Mandat": "Maire",
+    "Circonscription": "Baule",
+    "Departement": "Loiret",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "FOUNAUD-VEYSSET",
+    "Prenom": "Nathalie",
+    "Mandat": "Maire",
+    "Circonscription": "Monflanquin",
+    "Departement": "Lot-et-Garonne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "GONZATO-ROQUES",
+    "Prenom": "Christine",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Lot-et-Garonne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ROSO",
+    "Prenom": "Emilien",
+    "Mandat": "Maire",
+    "Circonscription": "Allemans-du-Dropt",
+    "Departement": "Lot-et-Garonne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DURAND",
+    "Prenom": "Francis",
+    "Mandat": "Maire",
+    "Circonscription": "Les Bondons",
+    "Departement": "Lozère",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GOAREGUER",
+    "Prenom": "Jean-Luc",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Gal",
+    "Departement": "Lozère",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LETOUZÉ",
+    "Prenom": "Thierry",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Manche",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CARNOYE",
+    "Prenom": "Nicolas",
+    "Mandat": "Maire",
+    "Circonscription": "Rosnay",
+    "Departement": "Marne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "JOFFRAIN",
+    "Prenom": "William",
+    "Mandat": "Maire",
+    "Circonscription": "Valleroy",
+    "Departement": "Haute-Marne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "TAILLEFUMIER",
+    "Prenom": "David",
+    "Mandat": "Maire",
+    "Circonscription": "Blumeray",
+    "Departement": "Haute-Marne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "CHARROIS-TARILLON",
+    "Prenom": "Nicole",
+    "Mandat": "Maire",
+    "Circonscription": "Bayon",
+    "Departement": "Meurthe-et-Moselle",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "FRANÇOIS",
+    "Prenom": "Elisée",
+    "Mandat": "Maire déléguée d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Buxières-sous-les-Côtes",
+    "Departement": "Meuse",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MARTIN",
+    "Prenom": "Pascal",
+    "Mandat": "Maire",
+    "Circonscription": "Bettborn",
+    "Departement": "Moselle",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LALLOZ",
+    "Prenom": "Bruno",
+    "Mandat": "Maire",
+    "Circonscription": "Challement",
+    "Departement": "Nièvre",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DE L\u0027HAMAIDE",
+    "Prenom": "Christophe",
+    "Mandat": "Maire",
+    "Circonscription": "Milly-sur-Thérain",
+    "Departement": "Oise",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MENN",
+    "Prenom": "Roger",
+    "Mandat": "Maire",
+    "Circonscription": "Liancourt",
+    "Departement": "Oise",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "LEPERLIER",
+    "Prenom": "Marie-Cécile",
+    "Mandat": "Maire",
+    "Circonscription": "Les Yveteaux",
+    "Departement": "Orne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LEROY",
+    "Prenom": "Grégory",
+    "Mandat": "Maire",
+    "Circonscription": "Gouy-Saint-André",
+    "Departement": "Pas-de-Calais",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MELIN",
+    "Prenom": "Daniel",
+    "Mandat": "Maire",
+    "Circonscription": "Nœux-lès-Auxi",
+    "Departement": "Pas-de-Calais",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BICAIN",
+    "Prenom": "Jean-Michel",
+    "Mandat": "Maire",
+    "Circonscription": "Gamarthe",
+    "Departement": "Pyrénées-Atlantiques",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LENDRE",
+    "Prenom": "Jean-Paul",
+    "Mandat": "Maire",
+    "Circonscription": "Sus",
+    "Departement": "Pyrénées-Atlantiques",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "PÉRÉ",
+    "Prenom": "Karine",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Pyrénées-Atlantiques",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "PUCEL",
+    "Prenom": "Matthieu",
+    "Mandat": "Maire",
+    "Circonscription": "Adervielle-Pouchergues",
+    "Departement": "Hautes-Pyrénées",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "EGGERMANN",
+    "Prenom": "René",
+    "Mandat": "Maire",
+    "Circonscription": "Friesenheim",
+    "Departement": "Bas-Rhin",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MICHEL",
+    "Prenom": "Jacques",
+    "Mandat": "Maire",
+    "Circonscription": "Wildersbach",
+    "Departement": "Bas-Rhin",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "RUXER",
+    "Prenom": "Denis",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Pierre",
+    "Departement": "Bas-Rhin",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "DE SAINT JEAN",
+    "Prenom": "Christine",
+    "Mandat": "Maire",
+    "Circonscription": "Ancy",
+    "Departement": "Rhône",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LEBRUN",
+    "Prenom": "Pascal",
+    "Mandat": "Maire",
+    "Circonscription": "Alix",
+    "Departement": "Rhône",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MARIN",
+    "Prenom": "Axel",
+    "Mandat": "Conseiller régional",
+    "Circonscription": "Auvergne-Rhône-Alpes",
+    "Departement": "Rhône",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "VERNAISON",
+    "Prenom": "Benoît",
+    "Mandat": "Maire",
+    "Circonscription": "Duerne",
+    "Departement": "Rhône",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CONFLAND",
+    "Prenom": "Bruno",
+    "Mandat": "Maire",
+    "Circonscription": "Purgerot",
+    "Departement": "Haute-Saône",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "FLEUROT",
+    "Prenom": "Sabrina",
+    "Mandat": "Maire",
+    "Circonscription": "Neurey-lès-la-Demie",
+    "Departement": "Haute-Saône",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GIRARD",
+    "Prenom": "Serge",
+    "Mandat": "Maire",
+    "Circonscription": "Ruhans",
+    "Departement": "Haute-Saône",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BERNARD",
+    "Prenom": "Eric",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Martin-du-Mont",
+    "Departement": "Saône-et-Loire",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "DUPENLOUP",
+    "Prenom": "Jacqueline",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Alban-des-Villards",
+    "Departement": "Savoie",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "JACQUIER",
+    "Prenom": "Nicolas",
+    "Mandat": "Maire",
+    "Circonscription": "Drumettaz-Clarafond",
+    "Departement": "Savoie",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BAUD",
+    "Prenom": "Jean-Baptiste",
+    "Mandat": "Conseiller régional",
+    "Circonscription": "Auvergne-Rhône-Alpes",
+    "Departement": "Haute-Savoie",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "COURLET",
+    "Prenom": "Jérémie",
+    "Mandat": "Maire",
+    "Circonscription": "Minzier",
+    "Departement": "Haute-Savoie",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LECAQUE",
+    "Prenom": "Vincent",
+    "Mandat": "Maire",
+    "Circonscription": "Collonges-sous-Salève",
+    "Departement": "Haute-Savoie",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "POCHAT-BARON",
+    "Prenom": "Pascal",
+    "Mandat": "Maire",
+    "Circonscription": "Viuz-en-Sallaz",
+    "Departement": "Haute-Savoie",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "SAUTY",
+    "Prenom": "Yannis",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Annecy",
+    "Departement": "Haute-Savoie",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BASILLE",
+    "Prenom": "Frédéric",
+    "Mandat": "Maire",
+    "Circonscription": "Angerville-l\u0027Orcher",
+    "Departement": "Seine-Maritime",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "HORDE",
+    "Prenom": "Pierre",
+    "Mandat": "Maire",
+    "Circonscription": "Ussy-sur-Marne",
+    "Departement": "Seine-et-Marne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "PELLETIER",
+    "Prenom": "Yves",
+    "Mandat": "Maire",
+    "Circonscription": "Vinantes",
+    "Departement": "Seine-et-Marne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GAGNE",
+    "Prenom": "Alain",
+    "Mandat": "Maire",
+    "Circonscription": "Boissy-Mauvoisin",
+    "Departement": "Yvelines",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "BECHY",
+    "Prenom": "Sandrine",
+    "Mandat": "Maire",
+    "Circonscription": "Scillé",
+    "Departement": "Deux-Sèvres",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "COHEN",
+    "Prenom": "Clément",
+    "Mandat": "Maire",
+    "Circonscription": "Le Bourdet",
+    "Departement": "Deux-Sèvres",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "MICHAUD",
+    "Prenom": "Dany",
+    "Mandat": "Maire",
+    "Circonscription": "La Foye-Monjault",
+    "Departement": "Deux-Sèvres",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "RIVIERE",
+    "Prenom": "Jacky",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Plaine-d\u0027Argenson",
+    "Departement": "Deux-Sèvres",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ROUSSEAU",
+    "Prenom": "Thierry",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Plaine-d\u0027Argenson",
+    "Departement": "Deux-Sèvres",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "CALIPPE",
+    "Prenom": "Sylviane",
+    "Mandat": "Maire",
+    "Circonscription": "Tailly",
+    "Departement": "Somme",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "CHOQUET",
+    "Prenom": "Florence",
+    "Mandat": "Maire",
+    "Circonscription": "Aizecourt-le-Bas",
+    "Departement": "Somme",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DELAFORGE",
+    "Prenom": "Christian",
+    "Mandat": "Maire",
+    "Circonscription": "Foucaucourt-en-Santerre",
+    "Departement": "Somme",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MARCASSIN",
+    "Prenom": "Daniel",
+    "Mandat": "Maire",
+    "Circonscription": "Yaucourt-Bussus",
+    "Departement": "Somme",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "MATE",
+    "Prenom": "Marie-Claire",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Urcisse",
+    "Departement": "Tarn",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "SENGES",
+    "Prenom": "Jean-Marc",
+    "Mandat": "Maire",
+    "Circonscription": "Almayrac",
+    "Departement": "Tarn",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "EMERIAU",
+    "Prenom": "Alain",
+    "Mandat": "Maire",
+    "Circonscription": "Cazals",
+    "Departement": "Tarn-et-Garonne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BONNUS",
+    "Prenom": "Michel",
+    "Mandat": "Sénateur",
+    "Circonscription": "",
+    "Departement": "Var",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ROUET",
+    "Prenom": "Frédéric",
+    "Mandat": "Maire",
+    "Circonscription": "Villes-sur-Auzon",
+    "Departement": "Vaucluse",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MAURY",
+    "Prenom": "Jean-Pierre",
+    "Mandat": "Maire",
+    "Circonscription": "Romagne",
+    "Departement": "Vienne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "DE NEUVILLE",
+    "Prenom": "Christine",
+    "Mandat": "Maire",
+    "Circonscription": "Vicq-sur-Breuilh",
+    "Departement": "Haute-Vienne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "GILLET",
+    "Prenom": "Emilie",
+    "Mandat": "Maire",
+    "Circonscription": "Glanges",
+    "Departement": "Haute-Vienne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "KLIPFEL",
+    "Prenom": "Elisabeth",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Vosges",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "VOINSON",
+    "Prenom": "John",
+    "Mandat": "Maire",
+    "Circonscription": "Le Valtin",
+    "Departement": "Vosges",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DELAVAULT",
+    "Prenom": "Jérôme",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Yonne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "HORRY",
+    "Prenom": "Franck",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Charny Orée de Puisaye",
+    "Departement": "Yonne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GONSARD",
+    "Prenom": "Thomas",
+    "Mandat": "Maire",
+    "Circonscription": "Mauchamps",
+    "Departement": "Essonne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "JOYEZ",
+    "Prenom": "Alain",
+    "Mandat": "Maire",
+    "Circonscription": "Gironville-sur-Essonne",
+    "Departement": "Essonne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "YANNOU",
+    "Prenom": "Denis",
+    "Mandat": "Maire",
+    "Circonscription": "Arrancourt",
+    "Departement": "Essonne",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "FILHOL",
+    "Prenom": "Oriane",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Seine-Saint-Denis",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CAROLE",
+    "Prenom": "Francis",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Martinique",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CHAMMAS",
+    "Prenom": "Charles",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Martinique",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GEMIEUX",
+    "Prenom": "Jean-Michel",
+    "Mandat": "Maire",
+    "Circonscription": "Sainte-Anne",
+    "Departement": "Martinique",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "LARGEN-MARINE",
+    "Prenom": "Yolène",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Martinique",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "NADEAU",
+    "Prenom": "Marcellin",
+    "Mandat": "Maire",
+    "Circonscription": "Le Prêcheur",
+    "Departement": "Martinique",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "HOARAU",
+    "Prenom": "Olivier",
+    "Mandat": "Maire",
+    "Circonscription": "Le Port",
+    "Departement": "La Réunion",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "NATIVEL",
+    "Prenom": "Jean François",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "La Réunion",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "KUIESINE EP WRIGHT",
+    "Prenom": "Kadrilé",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Nouvelle-Calédonie",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "WAMYTAN",
+    "Prenom": "Roch",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Nouvelle-Calédonie",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "WEA",
+    "Prenom": "Anselme",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Nouvelle-Calédonie",
+    "Candidat": "POUTOU Philippe",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "PAIGNE",
+    "Prenom": "Alain",
+    "Mandat": "Maire",
+    "Circonscription": "Gours",
+    "Departement": "Gironde",
+    "Candidat": "ROUSSEL Fabien",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ROJO",
+    "Prenom": "Éric",
+    "Mandat": "Maire",
+    "Circonscription": "Couquèques",
+    "Departement": "Gironde",
+    "Candidat": "ROUSSEL Fabien",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "DONZE",
+    "Prenom": "Anne-Christine",
+    "Mandat": "Maire",
+    "Circonscription": "Larrivoire",
+    "Departement": "Jura",
+    "Candidat": "ROUSSEL Fabien",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ROUDIL",
+    "Prenom": "Aymeric",
+    "Mandat": "Maire",
+    "Circonscription": "Chadron",
+    "Departement": "Haute-Loire",
+    "Candidat": "ROUSSEL Fabien",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "OLLIVIER",
+    "Prenom": "Bertrand",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Haute-Marne",
+    "Candidat": "ROUSSEL Fabien",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "BOURNAT GONZALEZ",
+    "Prenom": "Karine",
+    "Mandat": "Maire",
+    "Circonscription": "Neuf-Église",
+    "Departement": "Puy-de-Dôme",
+    "Candidat": "ROUSSEL Fabien",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CHARRIERE",
+    "Prenom": "Daniel",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Marcel",
+    "Departement": "Savoie",
+    "Candidat": "ROUSSEL Fabien",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "JEANDEL",
+    "Prenom": "Philippe",
+    "Mandat": "Maire",
+    "Circonscription": "Balgau",
+    "Departement": "Haut-Rhin",
+    "Candidat": "SMATI  Rafik",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GUITTET",
+    "Prenom": "Thierry",
+    "Mandat": "Maire",
+    "Circonscription": "Magnieu",
+    "Departement": "Ain",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CHERUBINI",
+    "Prenom": "Hervé",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Rémy-de-Provence",
+    "Departement": "Bouches-du-Rhône",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "PAIOLA",
+    "Prenom": "Jean-Marc",
+    "Mandat": "Maire",
+    "Circonscription": "Bréville-les-Monts",
+    "Departement": "Calvados",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "BOUISSON",
+    "Prenom": "Dominique",
+    "Mandat": "Maire",
+    "Circonscription": "Planay",
+    "Departement": "Côte-d\u0027Or",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ROUAULT",
+    "Prenom": "Etienne",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Eure-et-Loir",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "DUGUÉPÉROUX-HONORÉ",
+    "Prenom": "Béatrice",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Ille-et-Vilaine",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "SAVATON",
+    "Prenom": "Nathalie",
+    "Mandat": "Maire",
+    "Circonscription": "Savonnières",
+    "Departement": "Indre-et-Loire",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "JUNIER",
+    "Prenom": "Michel",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Didier",
+    "Departement": "Jura",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DAUVERGNE",
+    "Prenom": "Jean-François",
+    "Mandat": "Maire",
+    "Circonscription": "Régny",
+    "Departement": "Loire",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "GOISET",
+    "Prenom": "Magali",
+    "Mandat": "Maire",
+    "Circonscription": "Thimory",
+    "Departement": "Loiret",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LAPÈZE",
+    "Prenom": "Alain Eloi",
+    "Mandat": "Maire",
+    "Circonscription": "Montlauzun",
+    "Departement": "Lot",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "ROBERT",
+    "Prenom": "Marie-Françoise",
+    "Mandat": "Maire déléguée d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Saint-Sauveur-Villages",
+    "Departement": "Manche",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "BOULOY",
+    "Prenom": "Catherine",
+    "Mandat": "Maire",
+    "Circonscription": "Cuperly",
+    "Departement": "Marne",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DEMANGE",
+    "Prenom": "Joël",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Villegusien-le-Lac",
+    "Departement": "Haute-Marne",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "BEIRENS",
+    "Prenom": "Odile",
+    "Mandat": "Maire",
+    "Circonscription": "Buxières-sous-les-Côtes",
+    "Departement": "Meuse",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CRATZ",
+    "Prenom": "Christian",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Vigneulles-lès-Hattonchâtel",
+    "Departement": "Meuse",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "CLAMADIEU",
+    "Prenom": "Yves",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Julien-Puy-Lavèze",
+    "Departement": "Puy-de-Dôme",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MEALLET",
+    "Prenom": "Roger Jean",
+    "Mandat": "Conseiller régional",
+    "Circonscription": "Auvergne-Rhône-Alpes",
+    "Departement": "Puy-de-Dôme",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MONTABONE",
+    "Prenom": "Emmanuel",
+    "Mandat": "Maire délégué d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Val d\u0027Oingt",
+    "Departement": "Rhône",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "FAUVET",
+    "Prenom": "Marie",
+    "Mandat": "Maire",
+    "Circonscription": "Cluny",
+    "Departement": "Saône-et-Loire",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DUPARC",
+    "Prenom": "Stéphane",
+    "Mandat": "Maire",
+    "Circonscription": "La Chapelle-Blanche",
+    "Departement": "Savoie",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "SCHNEIDER",
+    "Prenom": "Sylvie",
+    "Mandat": "Maire",
+    "Circonscription": "Sainte-Hélène-du-Lac",
+    "Departement": "Savoie",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "RAVOIRE",
+    "Prenom": "François",
+    "Mandat": "Maire",
+    "Circonscription": "Vallières-sur-Fier",
+    "Departement": "Haute-Savoie",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "LEROY",
+    "Prenom": "Brigitte",
+    "Mandat": "Maire",
+    "Circonscription": "Lahoussoye",
+    "Departement": "Somme",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "DEVANNE",
+    "Prenom": "Michelle",
+    "Mandat": "Maire",
+    "Circonscription": "Pouzauges",
+    "Departement": "Vendée",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "CROUVEZIER",
+    "Prenom": "Maryvonne",
+    "Mandat": "Maire",
+    "Circonscription": "La Bresse",
+    "Departement": "Vosges",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "ACCUS ADAINE",
+    "Prenom": "Nadia",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Martinique",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "ETIENNE NOTTE",
+    "Prenom": "Yannick",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Martinique",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LETCHIMY",
+    "Prenom": "Serge",
+    "Mandat": "Président du Conseil exécutif de Martinique",
+    "Circonscription": "",
+    "Departement": "Martinique",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "PANZO",
+    "Prenom": "Jocelyne",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Martinique",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "RAVIN",
+    "Prenom": "Marie-Ange",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Martinique",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "TAVERNIER",
+    "Prenom": "Samuel",
+    "Mandat": "Maire",
+    "Circonscription": "Le François",
+    "Departement": "Martinique",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "CHIGNARD ÉPOUSE PAUL",
+    "Prenom": "Christelle",
+    "Mandat": "Présidente du conseil consulaire",
+    "Circonscription": "Haïti",
+    "Departement": "Français de l\u0027étranger",
+    "Candidat": "TAUBIRA Christiane",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "TREHEL",
+    "Prenom": "Christian",
+    "Mandat": "Maire",
+    "Circonscription": "Essises",
+    "Departement": "Aisne",
+    "Candidat": "THOUY Hélène",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GARNIER",
+    "Prenom": "Brice",
+    "Mandat": "Maire",
+    "Circonscription": "Beauvezer",
+    "Departement": "Alpes-de-Haute-Provence",
+    "Candidat": "THOUY Hélène",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "GRANTURCO",
+    "Prenom": "Thierry",
+    "Mandat": "Maire",
+    "Circonscription": "Villers-sur-Mer",
+    "Departement": "Calvados",
+    "Candidat": "THOUY Hélène",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "POZZO DI BORGO",
+    "Prenom": "Louis",
+    "Mandat": "Président d\u0027un EPCI à fiscalité propre",
+    "Circonscription": "CA de Bastia",
+    "Departement": "Haute-Corse",
+    "Candidat": "THOUY Hélène",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "PIAT",
+    "Prenom": "Serge",
+    "Mandat": "Maire",
+    "Circonscription": "Louzouer",
+    "Departement": "Loiret",
+    "Candidat": "THOUY Hélène",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ROGI",
+    "Prenom": "Christophe",
+    "Mandat": "Maire",
+    "Circonscription": "Semilly",
+    "Departement": "Haute-Marne",
+    "Candidat": "THOUY Hélène",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "BIGEREL",
+    "Prenom": "Elise",
+    "Mandat": "Maire déléguée d\u0027une commune associée ou d\u0027une commune déléguée",
+    "Circonscription": "Saulvaux",
+    "Departement": "Meuse",
+    "Candidat": "THOUY Hélène",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "NIGRO",
+    "Prenom": "Jean-Pierre",
+    "Mandat": "Maire",
+    "Circonscription": "La Neuville-Saint-Pierre",
+    "Departement": "Oise",
+    "Candidat": "THOUY Hélène",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ANTONI",
+    "Prenom": "Marc",
+    "Mandat": "Maire",
+    "Circonscription": "Leutenheim",
+    "Departement": "Bas-Rhin",
+    "Candidat": "THOUY Hélène",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BRINGEL",
+    "Prenom": "Eric",
+    "Mandat": "Maire",
+    "Circonscription": "Buethwiller",
+    "Departement": "Haut-Rhin",
+    "Candidat": "THOUY Hélène",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "PFLIEGER",
+    "Prenom": "Michel",
+    "Mandat": "Maire",
+    "Circonscription": "Walheim",
+    "Departement": "Haut-Rhin",
+    "Candidat": "THOUY Hélène",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BURDET",
+    "Prenom": "Patrice",
+    "Mandat": "Maire",
+    "Circonscription": "Rognaix",
+    "Departement": "Savoie",
+    "Candidat": "THOUY Hélène",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "HAUETER",
+    "Prenom": "Ghislaine",
+    "Mandat": "Maire",
+    "Circonscription": "Freneuse",
+    "Departement": "Yvelines",
+    "Candidat": "THOUY Hélène",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MARTIN",
+    "Prenom": "Jean-François",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Laon",
+    "Departement": "Vienne",
+    "Candidat": "THOUY Hélène",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "MARTINI PEMEZEC",
+    "Prenom": "Carine",
+    "Mandat": "Conseillère régionale",
+    "Circonscription": "Île-De-France",
+    "Departement": "Hauts-de-Seine",
+    "Candidat": "THOUY Hélène",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "COURRIER",
+    "Prenom": "Jean-Paul",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Nizier-le-Désert",
+    "Departement": "Ain",
+    "Candidat": "ZEMMOUR Éric",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "TRUPHEME",
+    "Prenom": "Anne",
+    "Mandat": "Conseillère départementale",
+    "Circonscription": "",
+    "Departement": "Hautes-Alpes",
+    "Candidat": "ZEMMOUR Éric",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LEFRANCOIS",
+    "Prenom": "Jean-Louis",
+    "Mandat": "Maire",
+    "Circonscription": "Manneville-la-Pipard",
+    "Departement": "Calvados",
+    "Candidat": "ZEMMOUR Éric",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BRUNA",
+    "Prenom": "Laurent",
+    "Mandat": "Maire",
+    "Circonscription": "Cirès",
+    "Departement": "Haute-Garonne",
+    "Candidat": "ZEMMOUR Éric",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BONNET",
+    "Prenom": "Eric",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Jean-le-Comtal",
+    "Departement": "Gers",
+    "Candidat": "ZEMMOUR Éric",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ESPINASSE",
+    "Prenom": "Patrice",
+    "Mandat": "Maire",
+    "Circonscription": "Juré",
+    "Departement": "Loire",
+    "Candidat": "ZEMMOUR Éric",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "DE TOFFOLI",
+    "Prenom": "Patrick",
+    "Mandat": "Maire",
+    "Circonscription": "Sabadel-Lauzès",
+    "Departement": "Lot",
+    "Candidat": "ZEMMOUR Éric",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "SARFATI",
+    "Prenom": "Sophie",
+    "Mandat": "Maire",
+    "Circonscription": "Nadillac",
+    "Departement": "Lot",
+    "Candidat": "ZEMMOUR Éric",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "MALANGE",
+    "Prenom": "Gaëtan",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Barthélemy-d\u0027Agenais",
+    "Departement": "Lot-et-Garonne",
+    "Candidat": "ZEMMOUR Éric",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LEMOUTON",
+    "Prenom": "Yves",
+    "Mandat": "Maire",
+    "Circonscription": "Nicorps",
+    "Departement": "Manche",
+    "Candidat": "ZEMMOUR Éric",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BOUTON",
+    "Prenom": "Noël",
+    "Mandat": "Maire",
+    "Circonscription": "Saint-Arnoult",
+    "Departement": "Oise",
+    "Candidat": "ZEMMOUR Éric",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "SCHULER",
+    "Prenom": "Georges",
+    "Mandat": "Maire",
+    "Circonscription": "Reichstett",
+    "Departement": "Bas-Rhin",
+    "Candidat": "ZEMMOUR Éric",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "BIANCOTTI",
+    "Prenom": "Anne-Marie",
+    "Mandat": "Maire",
+    "Circonscription": "Bettlach",
+    "Departement": "Haut-Rhin",
+    "Candidat": "ZEMMOUR Éric",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "COCHIN",
+    "Prenom": "Michel",
+    "Mandat": "Maire",
+    "Circonscription": "Paley",
+    "Departement": "Seine-et-Marne",
+    "Candidat": "ZEMMOUR Éric",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "ESCALETTE",
+    "Prenom": "Gaëtan",
+    "Mandat": "Maire",
+    "Circonscription": "Puygaillard-de-Quercy",
+    "Departement": "Tarn-et-Garonne",
+    "Candidat": "ZEMMOUR Éric",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "BONNEVILLE",
+    "Prenom": "Alain",
+    "Mandat": "Maire",
+    "Circonscription": "Vouxey",
+    "Departement": "Vosges",
+    "Candidat": "ZEMMOUR Éric",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "PEDUZZI",
+    "Prenom": "Dominique",
+    "Mandat": "Conseiller départemental",
+    "Circonscription": "",
+    "Departement": "Vosges",
+    "Candidat": "ZEMMOUR Éric",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "TEHAAMOANA",
+    "Prenom": "Etienne",
+    "Mandat": "Membre d\u0027une assemblée d\u0027une collectivité territoriale d\u0027outre-mer à statut particulier",
+    "Circonscription": "",
+    "Departement": "Polynésie française",
+    "Candidat": "ZEMMOUR Éric",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "Mme",
+    "Nom": "GIRAUD-MALIVEL",
+    "Prenom": "Michèle",
+    "Mandat": "Présidente du conseil consulaire",
+    "Circonscription": "Maurice, Seychelles",
+    "Departement": "Français de l\u0027étranger",
+    "Candidat": "ZEMMOUR Éric",
+    "DatePublication": "2022-03-07T00:00:00"
+  },
+  {
+    "Civilite": "M.",
+    "Nom": "LETANCHE",
+    "Prenom": "Hugues",
+    "Mandat": "Président du conseil consulaire",
+    "Circonscription": "Arabie saoudite - 2e circonscription(avec Koweït)",
+    "Departement": "Français de l\u0027étranger",
+    "Candidat": "ZEMMOUR Éric",
+    "DatePublication": "2022-03-07T00:00:00"
   }
 ]
